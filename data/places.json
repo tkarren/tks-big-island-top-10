@@ -1851,5 +1851,52 @@
         ]
       }
     ]
+  },
+  {
+    "n": 30,
+    "title": "Willie’s Hot Chicken",
+    "category": "Good Grindz",
+    "region": "Kona",
+    "queries": [
+      "Willy's Hot Chicken Giving You The Bird Kona"
+    ],
+    "tom": "Hot chicken in Kona with the proper slogan: giving you the bird. Casual, spicy, satisfying, and a good mainland-craving fix after too much responsible beach behavior.",
+    "pro": "Choose your heat level wisely. Pride is not a sauce.",
+    "places": [
+      {
+        "place_id": "ChIJfYq9hNYPVHkRPBWiblxh87M",
+        "name": "Willie's Hot Chicken",
+        "address": "74-5599 Pawai Pl Ste#1&2, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6440657,
+          "lng": -155.9985295
+        },
+        "rating": 4.4,
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 796-3088",
+        "website": "http://www.willieshotchicken.com/",
+        "hours": [
+          "Monday: 11:00 AM – 9:00 PM",
+          "Tuesday: 11:00 AM – 9:00 PM",
+          "Wednesday: 11:00 AM – 9:00 PM",
+          "Thursday: 11:00 AM – 9:00 PM",
+          "Friday: 11:00 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 9:00 PM",
+          "Sunday: 11:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "query": "Willy's Hot Chicken Giving You The Bird Kona",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Willie%27s+Hot+Chicken&query_place_id=ChIJfYq9hNYPVHkRPBWiblxh87M",
+        "review_snippets": [
+          "Bar set up style; Staff is super friendly and the ambiance is both entertaining and inviting. (Plus immaculate private access to restrooms!) Breading on Chicken was reminicent of fish and chips (very light breading on hi",
+          "Exceptional chicken tenders, the sweet Hawaiian spiciness is perfect! Loved the sides, especially potato salad. Currently reviewing my travel notes, and Willie‘s Hot Chicken is mentioned twice. Thanks for the great food!"
+        ]
+      }
+    ]
   }
 ]
