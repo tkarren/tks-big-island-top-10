@@ -1,0 +1,1855 @@
+[
+  {
+    "n": 1,
+    "title": "Hāpuna & Mauna Kea Beach",
+    "category": "Beach Day",
+    "region": "Kohala Coast",
+    "queries": [
+      "Hapuna Beach State Recreation Area Hawaii",
+      "Mauna Kea Beach Kaunaoa Beach Hawaii"
+    ],
+    "tom": "Big sandy beaches on massive bays. Hāpuna is a state park; Mauna Kea has limited public parking. A coastal trail connects them.",
+    "pro": "Take a Neso, chairs, reef-safe sunscreen, and go early for Mauna Kea parking.",
+    "places": [
+      {
+        "place_id": "ChIJjVntyD2HU3kR-a3WstZ_gu8",
+        "name": "Hapuna Beach State Recreation Area",
+        "address": "Old Puako Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 19.9913889,
+          "lng": -155.825
+        },
+        "rating": 4.8,
+        "types": [
+          "state_park",
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 961-9540",
+        "website": "http://dlnr.hawaii.gov/dsp/parks/hawaii/hapuna-beach-state-recreation-area/",
+        "hours": [
+          "Monday: 7:00 AM – 6:30 PM",
+          "Tuesday: 7:00 AM – 6:30 PM",
+          "Wednesday: 7:00 AM – 6:30 PM",
+          "Thursday: 7:00 AM – 6:30 PM",
+          "Friday: 7:00 AM – 6:30 PM",
+          "Saturday: 7:00 AM – 6:30 PM",
+          "Sunday: 7:00 AM – 6:30 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hapuna+Beach+State+Recreation+Area&query_place_id=ChIJjVntyD2HU3kR-a3WstZ_gu8",
+        "query": "Hapuna Beach State Recreation Area Hawaii",
+        "review_snippets": [
+          "Hapuna State Beach is hands down the best beach on the Kona side of the Big Island. The sand is beautiful, the waves are great, and with lifeguards on duty it feels very safe—especially for kids.\nThere’s plenty of space ",
+          "Big beach. Great walking sand. Lots of shade with trees cliffs & shelters.\n\nPerfect waves for kids to use little boards.\nFamily friends- goes out shallow quite a ways.\n\nSeveral bath houses for changing - with toilets. Go"
+        ]
+      },
+      {
+        "place_id": "ChIJnUiziIaHU3kR7NemKm6DTpA",
+        "name": "Mauna Kea Beach",
+        "address": "Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.0040152,
+          "lng": -155.82467499999998
+        },
+        "rating": 4.7,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Mauna+Kea+Beach&query_place_id=ChIJnUiziIaHU3kR7NemKm6DTpA",
+        "query": "Mauna Kea Beach Kaunaoa Beach Hawaii",
+        "review_snippets": [
+          "A beautiful light sand beach with gorgeous greenish-blue, clear water. We enjoyed a nice afternoon sitting under the umbrella in the beach chairs that are available for the hotel guests. You can paddle board, surf and sn",
+          "My fave beach. Currently have construction at the original beach entrance where we went 2 years ago, so have to walk farther to get to beach but it’s all paved or flat grassy areas to walk on. No bathrooms or showers nea"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "title": "Poke in Kawaihae — Hale Iʻa Da Fish House",
+    "category": "Good Grindz",
+    "region": "Kawaihae",
+    "queries": [
+      "Hale I'a Da Fish House Kawaihae"
+    ],
+    "tom": "Fresh fish caught and prepared in-house. This is the “skip the tourist poke bowl” stop.",
+    "pro": "Go earlier in the day for best selection.",
+    "places": [
+      {
+        "place_id": "ChIJXa0Lf-uAU3kRYrWdUuxu8cQ",
+        "name": "Hale I'a Da Fish House",
+        "address": "61-3665 Kawaihae-Mahukona Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.038911100000004,
+          "lng": -155.8298404
+        },
+        "rating": 4.8,
+        "types": [
+          "market",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 882-1052",
+        "website": "http://dafishhouse.restaurantwebexpert.com/",
+        "hours": [
+          "Monday: 6:00 AM – 5:00 PM",
+          "Tuesday: 6:00 AM – 5:00 PM",
+          "Wednesday: 6:00 AM – 5:00 PM",
+          "Thursday: 6:00 AM – 5:00 PM",
+          "Friday: 6:00 AM – 5:00 PM",
+          "Saturday: 7:00 AM – 5:00 PM",
+          "Sunday: Closed"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hale+I%27a+Da+Fish+House&query_place_id=ChIJXa0Lf-uAU3kRYrWdUuxu8cQ",
+        "query": "Hale I'a Da Fish House Kawaihae",
+        "review_snippets": [
+          "Amazing food! Tried the wasabi pistachio poke and it was my favorite I’ve tried all trip. The grilled Mahi Mahi was also excellent and flavorful. The portions are quite large too, could be good for sharing.",
+          "They have marlin fish here which was unique! The fish portions were hugeee which I love and the taste was top tier and fresh! The best poke I’ve had on the big island so far!"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "title": "Concrete Beach / Kawaihae Harbor",
+    "category": "Ocean Play",
+    "region": "Kawaihae",
+    "queries": [
+      "Kawaihae Small Boat Harbor Hawaii"
+    ],
+    "tom": "Jump off the harbor piers and swim off the west side of the break. If you have an eFoil, this could be world-class riding.",
+    "pro": "Jump only on the deep side. Don’t be dumb. The ocean charges interest.",
+    "places": [
+      {
+        "place_id": "ChIJZxSL_gaBU3kR7HKMVyDh7p0",
+        "name": "South Kawaihae Small Boat Harbor",
+        "address": "Kawaihae Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.0283134,
+          "lng": -155.8274812
+        },
+        "rating": 5,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 587-1966",
+        "website": "https://dlnr.hawaii.gov/dobor/kawaihae-facilities/",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=South+Kawaihae+Small+Boat+Harbor&query_place_id=ChIJZxSL_gaBU3kR7HKMVyDh7p0",
+        "query": "Kawaihae Small Boat Harbor Hawaii",
+        "review_snippets": [
+          "Easy to navigate, ample parking"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "title": "Pololū Valley + Food Truck + Mahukona",
+    "category": "Adventure Loop",
+    "region": "North Kohala",
+    "queries": [
+      "Pololu Valley Lookout Hawaii",
+      "Mahukona Beach Park Hawaii"
+    ],
+    "tom": "Hike Pololū Valley, then make the mandatory stop at Fresh Off the Grid — aka Poke Nachos — before heading to Mahukona for snorkel, swim, or chair-in-the-parking-lot ocean staring.",
+    "pro": "Poke Nachos are the move. Beware of biting donkeys. Mahukona is great on calm days: park on the concrete, break out the beach chairs, enjoy parking-lot beach vibes.",
+    "places": [
+      {
+        "place_id": "ChIJi4omKrx7U3kRvo6rOh5slCg",
+        "name": "Pololū Valley Lookout",
+        "address": "52-5100 Akoni Pule Hwy, Kapaau, HI 96755, USA",
+        "location": {
+          "lat": 20.2035807,
+          "lng": -155.73384969999998
+        },
+        "rating": 4.8,
+        "types": [
+          "scenic_spot",
+          "tourist_attraction",
+          "hiking_area",
+          "sports_activity_location",
+          "point_of_interest",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Polol%C5%AB+Valley+Lookout&query_place_id=ChIJi4omKrx7U3kRvo6rOh5slCg",
+        "query": "Pololu Valley Lookout Hawaii",
+        "review_snippets": [
+          "A highlight to our trip. The hike is just under 1000ft elevation change with some rocky steep path. It has a few lookout points at each turn down the hill. Both the top and bottom are beautiful in their own ways.\nI would",
+          "This was so beautiful. Reminds me of Big Sur almost. Would definitely recommend the hike down to the black sand beach and the valley view (if you’re going to hike, you’ll need to park along the road leading up to the loo"
+        ]
+      },
+      {
+        "place_id": "ChIJG-aQ052BVHkRxKH5VpFGnXo",
+        "name": "Māhukona Beach Park",
+        "address": "Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.182346799999998,
+          "lng": -155.9012831
+        },
+        "rating": 4.6,
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 961-8311",
+        "website": "https://hawaiicounty.ehawaii.gov/camping/all,details,57791.html",
+        "hours": [
+          "Monday: 6:00 AM – 10:00 PM",
+          "Tuesday: 6:00 AM – 10:00 PM",
+          "Wednesday: 6:00 AM – 10:00 PM",
+          "Thursday: 6:00 AM – 10:00 PM",
+          "Friday: 6:00 AM – 10:00 PM",
+          "Saturday: 6:00 AM – 10:00 PM",
+          "Sunday: 6:00 AM – 10:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=M%C4%81hukona+Beach+Park&query_place_id=ChIJG-aQ052BVHkRxKH5VpFGnXo",
+        "query": "Mahukona Beach Park Hawaii",
+        "review_snippets": [
+          "Enjoyable snorkeling off of a dock with an easy to navigate ladder entrance.  We saw a variety of fish.  Locals and tourists alike enjoyed the park on the day we were there.",
+          "Secluded rocky area great for snorkeling!\nHistory of sugar plantation, train station and previous settlements is interesting and sad, all in the same."
+        ]
+      },
+      {
+        "place_id": "ChIJVQa9mpl7U3kR7nylsXIZcgU",
+        "name": "Fresh Off the Grid, Kohala.",
+        "address": "52-4877 Akoni Pule Hwy, Kapaau, HI 96755, USA",
+        "location": {
+          "lat": 20.212438199999998,
+          "lng": -155.74226539999998
+        },
+        "rating": 4.8,
+        "types": [
+          "cafe",
+          "ice_cream_shop",
+          "dessert_shop",
+          "confectionery",
+          "food_store",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 895-2963",
+        "hours": [
+          "Monday: 10:30 AM – 5:00 PM",
+          "Tuesday: 10:30 AM – 5:00 PM",
+          "Wednesday: Closed",
+          "Thursday: Closed",
+          "Friday: 10:30 AM – 5:00 PM",
+          "Saturday: 10:30 AM – 5:00 PM",
+          "Sunday: 10:30 AM – 5:00 PM"
+        ],
+        "open_now": false,
+        "query": "Fresh Off the Grid Kohala Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Fresh+Off+the+Grid%2C+Kohala.&query_place_id=ChIJVQa9mpl7U3kR7nylsXIZcgU",
+        "review_snippets": [
+          "Fresh breeze! Spectacular view of the mountains and ocean!! Perfect spot to sit down, eat some fresh food and relax after hiking.\nTheir produce is most affordable than anywhere else and tastes good. Let’s support local g",
+          "You couldn’t ask for a better setting. This is effectively a food truck with a little more infrastructure around it. It’s right next to a historic valley hiking trail (2-3 minute drive away) - which is also worth a visit"
+        ]
+      },
+      {
+        "place_id": "ChIJNZhccQCBVHkRQAMp2T76-RQ",
+        "name": "Māhukona Beach Park Cove",
+        "address": "53MW+H7, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.183879899999997,
+          "lng": -155.9042881
+        },
+        "rating": 5,
+        "types": [
+          "scenic_spot",
+          "point_of_interest",
+          "establishment"
+        ],
+        "query": "Mahukona Beach Park Cove Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=M%C4%81hukona+Beach+Park+Cove&query_place_id=ChIJNZhccQCBVHkRQAMp2T76-RQ",
+        "review_snippets": [
+          "Best snorkeling I found on Big Island, at least, in the winter. Fish, coral, ship remnants.\nLadder entry from the dock, free parking on dock!"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "title": "Swim & Paddle at A-Bay",
+    "category": "Beach Day",
+    "region": "Waikoloa",
+    "queries": [
+      "Anaehoomalu Bay Waikoloa Hawaii",
+      "Lava Lava Beach Club Waikoloa",
+      "Hilton Waikoloa Village Dolphin Quest"
+    ],
+    "tom": "Paddle, swim, find the secret eel spot, then hike north toward the Hilton to see dolphins. Lava Lava is great for lunch or sunset dinner.",
+    "pro": "Best as a half-day: paddle first, Lava Lava later.",
+    "places": [
+      {
+        "place_id": "ChIJ2UNFRJp3VHkRzEzDwhWRtkY",
+        "name": "Anaehoomalu Bay",
+        "address": "Anaehoomalu Bay, Waikoloa Beach Resort, HI 96738, USA",
+        "location": {
+          "lat": 19.9161242,
+          "lng": -155.8932242
+        },
+        "rating": 4.9,
+        "types": [
+          "natural_feature",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Anaehoomalu+Bay&query_place_id=ChIJ2UNFRJp3VHkRzEzDwhWRtkY",
+        "query": "Anaehoomalu Bay Waikoloa Hawaii",
+        "review_snippets": [
+          "Consistency a calm, sand beach. Regularly see sea turtles. Has a restaurant, and a rental shack you can rent swim toys and boat rides. Offers some shade. Sometimes pretty windy. Shopping near by.",
+          "Been coming here since I was kid. Families favorite beach to go to given the vicinity to Waikoloa. Calm and clear waters. If you visit, go to the left side of the beach, much nicer. Away from all the tourists."
+        ]
+      },
+      {
+        "place_id": "ChIJLV0YzpZ3VHkRrJxydNU8n4s",
+        "name": "Lava Lava Beach Club",
+        "address": "69-1081 Ku'uali'i Pl, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.913297699999998,
+          "lng": -155.8879458
+        },
+        "rating": 4.4,
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "http://lavalavabeachclub.com/bigisland",
+        "hours": [
+          "Monday: 11:30 AM – 9:00 PM",
+          "Tuesday: 11:30 AM – 9:00 PM",
+          "Wednesday: 11:30 AM – 9:00 PM",
+          "Thursday: 11:30 AM – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 9:00 PM",
+          "Sunday: 11:00 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Lava+Lava+Beach+Club&query_place_id=ChIJLV0YzpZ3VHkRrJxydNU8n4s",
+        "query": "Lava Lava Beach Club Waikoloa",
+        "review_snippets": [
+          "Came to the restaurant here as a recommendation from friends who loved it, but we were not fans. The servers were plenty nice but the food wasn’t ideal especially given it’s not a cheap place. Started out with the teriya",
+          "This is for restaurant ONLY\n\n⭐ Overall Experience: 4/5\nAtmosphere: 5/5\nService: 5/5 — Erin was fantastic\nDrinks: 4/5\nFood: 3/5\n\nGreat location with an even better atmosphere. Erin was our server and she was truly excelle"
+        ]
+      },
+      {
+        "place_id": "ChIJGfxD1Ih3VHkRSjDRrFYZXpo",
+        "name": "Dolphin Quest Hawaii",
+        "address": "69-425 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.925504999999998,
+          "lng": -155.889022
+        },
+        "rating": 4.3,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 987-3434",
+        "website": "https://dolphinquest.com/hawaii-big-island/",
+        "hours": [
+          "Monday: 8:30 AM – 5:00 PM",
+          "Tuesday: 8:30 AM – 5:00 PM",
+          "Wednesday: 8:30 AM – 5:00 PM",
+          "Thursday: 8:30 AM – 5:00 PM",
+          "Friday: 8:30 AM – 5:00 PM",
+          "Saturday: 8:30 AM – 5:00 PM",
+          "Sunday: 8:30 AM – 5:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Dolphin+Quest+Hawaii&query_place_id=ChIJGfxD1Ih3VHkRSjDRrFYZXpo",
+        "query": "Hilton Waikoloa Village Dolphin Quest",
+        "review_snippets": [
+          "Pretty unique to get so close to dolphins outside of SeaWorld/ boat tours. Dolphin encounters up close and personal available for a price, photo session is an additional extra. Supports ocean conservation and you get a h",
+          "Loved being able to see the dolphins in the lagoon. Also learned a lot about them. The staff was ready to answer any questions. Wish I had done the swim with the dolphins that they offer"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "title": "Night Manta Snorkel / Dive",
+    "category": "World Class",
+    "region": "Kona",
+    "queries": [
+      "Jack's Diving Locker Kona manta night snorkel"
+    ],
+    "tom": "A legit world-class experience: nighttime snorkel or dive with manta rays. Jack’s Diving Locker is a solid Kona option, and in recent years operators have also started running manta dives nearer Mauna Kea Beach.",
+    "pro": "Check multiple operators for the best location that night: Mauna Kea-area options up north, or Honu Kona Divers for south/Kona options. Book ahead.",
+    "places": [
+      {
+        "place_id": "ChIJ3W_5bf0OVHkRX9rGOXxlL8M",
+        "name": "Jack's Diving Locker",
+        "address": "75-5813 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6343097,
+          "lng": -155.9889102
+        },
+        "rating": 4.8,
+        "types": [
+          "sporting_goods_store",
+          "tour_agency",
+          "travel_agency",
+          "store",
+          "sports_coaching",
+          "school",
+          "educational_institution",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 329-7585",
+        "website": "https://jacksdivinglocker.com/contact-us",
+        "hours": [
+          "Monday: 8:00 AM – 4:00 PM",
+          "Tuesday: 8:00 AM – 4:00 PM",
+          "Wednesday: 8:00 AM – 4:00 PM",
+          "Thursday: 8:00 AM – 4:00 PM",
+          "Friday: 8:00 AM – 4:00 PM",
+          "Saturday: 8:00 AM – 4:00 PM",
+          "Sunday: 8:00 AM – 4:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Jack%27s+Diving+Locker&query_place_id=ChIJ3W_5bf0OVHkRX9rGOXxlL8M",
+        "query": "Jack's Diving Locker Kona manta night snorkel",
+        "review_snippets": [
+          "We had an amazing experience at Jack’s Diving Locker while completing our scuba diving certification. The instructors were extremely professional, patient, and supportive, making the entire learning process feel safe, cl",
+          "Absolutely amazing experience with Jack’s Dive Shop on the Big Island. This was honestly one of the highlights of our trip.\n\nKeller had us laughing nonstop. His dad jokes were so good and made the whole boat feel relaxed"
+        ]
+      },
+      {
+        "place_id": "ChIJLQl61_cOVHkR36hmpO5gnfU",
+        "name": "Kona Honu Divers",
+        "address": "74-5583 Luhia St A12, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.647983699999997,
+          "lng": -155.99845349999998
+        },
+        "rating": 5,
+        "types": [
+          "sporting_goods_store",
+          "tour_agency",
+          "travel_agency",
+          "store",
+          "sports_activity_location",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ],
+        "phone": "(808) 319-4749",
+        "website": "https://konahonudivers.com/?ref=googlebusinessprofile",
+        "hours": [
+          "Monday: 7:00 AM – 5:00 PM",
+          "Tuesday: 7:00 AM – 5:00 PM",
+          "Wednesday: 7:00 AM – 5:00 PM",
+          "Thursday: 7:00 AM – 5:00 PM",
+          "Friday: 7:00 AM – 5:00 PM",
+          "Saturday: 7:00 AM – 5:00 PM",
+          "Sunday: 7:00 AM – 5:00 PM"
+        ],
+        "open_now": true,
+        "query": "Honu Kona Divers Kailua Kona Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kona+Honu+Divers&query_place_id=ChIJLQl61_cOVHkR36hmpO5gnfU"
+      },
+      {
+        "place_id": "ChIJAY-YUW0OVHkRugx6Q9EPx9U",
+        "name": "Manta Ray Dives of Hawai‘i",
+        "address": "74-380 Kealakehe Pkwy slip c-01, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6695359,
+          "lng": -156.0222317
+        },
+        "rating": 4.9,
+        "types": [
+          "tour_agency",
+          "travel_agency",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 325-1687",
+        "website": "http://www.mantaraydiveshawaii.com/",
+        "hours": [
+          "Monday: 9:00 AM – 4:00 PM",
+          "Tuesday: 9:00 AM – 4:00 PM",
+          "Wednesday: 9:00 AM – 4:00 PM",
+          "Thursday: 9:00 AM – 4:00 PM",
+          "Friday: 9:00 AM – 4:00 PM",
+          "Saturday: 9:00 AM – 4:00 PM",
+          "Sunday: 9:00 AM – 4:00 PM"
+        ],
+        "open_now": false,
+        "query": "Mauna Kea manta dive Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Manta+Ray+Dives+of+Hawai%E2%80%98i&query_place_id=ChIJAY-YUW0OVHkRugx6Q9EPx9U"
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "title": "Bike Queen K to Kawaihae and Hawi",
+    "category": "Bike",
+    "region": "Kohala / Queen K",
+    "queries": [
+      "Kawaihae Hawaii",
+      "Hawi Hawaii"
+    ],
+    "tom": "Ride the back half of the Ironman course: ocean views, heat, wind, and climbs.",
+    "pro": "Start early. Bring more hydration than you think.",
+    "places": [
+      {
+        "place_id": "ChIJ2WeeRuqAU3kRzHGYEqTezJY",
+        "name": "Kawaihae",
+        "address": "Kawaihae, HI 96743, USA",
+        "location": {
+          "lat": 20.0382426,
+          "lng": -155.82909519999998
+        },
+        "types": [
+          "locality",
+          "political"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kawaihae&query_place_id=ChIJ2WeeRuqAU3kRzHGYEqTezJY",
+        "query": "Kawaihae Hawaii",
+        "review_snippets": []
+      },
+      {
+        "place_id": "ChIJwW8FHHN9U3kREKJ6zsM4sFg",
+        "name": "Hawi",
+        "address": "Hawi, HI, USA",
+        "location": {
+          "lat": 20.2381545,
+          "lng": -155.8338248
+        },
+        "types": [
+          "locality",
+          "political"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hawi&query_place_id=ChIJwW8FHHN9U3kREKJ6zsM4sFg",
+        "query": "Hawi Hawaii",
+        "review_snippets": []
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "title": "Bike to Waikoloa Village and Beyond",
+    "category": "Bike",
+    "region": "Waikoloa",
+    "queries": [
+      "Waikoloa Village Hawaii"
+    ],
+    "tom": "Climb from the coast toward Waikoloa Village and keep going as far and high as your legs allow. Big views of four mountains and Maui.",
+    "pro": "Great training ride. Wind can turn “fun” into “character-building.”",
+    "places": [
+      {
+        "place_id": "ChIJrcU3uNyHU3kROiwYHoDF6Mw",
+        "name": "Waikoloa Village",
+        "address": "Waikoloa Village, HI, USA",
+        "location": {
+          "lat": 19.937248399999998,
+          "lng": -155.7910681
+        },
+        "types": [
+          "locality",
+          "political"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Waikoloa+Village&query_place_id=ChIJrcU3uNyHU3kROiwYHoDF6Mw",
+        "query": "Waikoloa Village Hawaii",
+        "review_snippets": []
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "title": "Swim the Ironman Course in Kona Town",
+    "category": "Swim / Snorkel",
+    "region": "Kailua-Kona",
+    "queries": [
+      "Kailua Pier Kona Hawaii"
+    ],
+    "tom": "The Kona harbor is some of the clearest water around: bait balls, reef fish, and the classic Ironman swim line.",
+    "pro": "Bonus points if you fish afterward. You can snorkel here too.",
+    "places": [
+      {
+        "place_id": "ChIJDcQoN_8OVHkRtcepbRwMGi0",
+        "name": "Kailua Pier",
+        "address": "Kaahumanu Pl, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6393742,
+          "lng": -155.9969544
+        },
+        "rating": 4.6,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "http://kailuapier.com/",
+        "hours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kailua+Pier&query_place_id=ChIJDcQoN_8OVHkRtcepbRwMGi0",
+        "query": "Kailua Pier Kona Hawaii",
+        "review_snippets": [
+          "This pier is free and open to public foot traffic. On either side, you will find beautiful, sandy-bottomed beaches with shallow turquoise water, nicely protected from big waves. Although it is used for commercial purpose",
+          "Arrived via cruise ship, lovely little town to wander through. This cultural heritage site is a very short walk off the pier. Historic temple and royal Tahitian site. Walk through from beach side and respect the signs to"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "title": "Two Step + Picnic + Hoʻokena",
+    "category": "Snorkel",
+    "region": "South Kona",
+    "queries": [
+      "Two Step Honaunau Bay Hawaii",
+      "Puuhonua o Honaunau National Historical Park",
+      "Hookena Beach Park Hawaii"
+    ],
+    "tom": "Two Step is a fish tank. Picnic behind the parking lot at the national park, then tag on Hoʻokena for black sand beach time.",
+    "pro": "Respect the entry/exit and surge at Two Step.",
+    "places": [
+      {
+        "place_id": "ChIJz8neTLgBVHkRUZOs1UDHQi0",
+        "name": "Honaunau Bay",
+        "address": "84-5571 Honaunau Beach Rd, Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.4232986,
+          "lng": -155.9113179
+        },
+        "rating": 4.7,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "https://www.outdoorproject.com/united-states/hawaii/paea-two-step-honaunau-bay",
+        "hours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Honaunau+Bay&query_place_id=ChIJz8neTLgBVHkRUZOs1UDHQi0",
+        "query": "Two Step Honaunau Bay Hawaii",
+        "review_snippets": [
+          "This is out moat favorite place IN THE WORLD to snorkel. Get in the water via \"2 Step\" a natural set of rock stairs the allow an easy in to deep water. If you are lucky the pod of dolphins will shoe themselves. You can p",
+          "One of the best snorkel spots. Very popular place, got parking in front in the lot for $5! Lots of fish and coral. I saw a reef shark and a group of dolphins. Little place to sit and little/no share."
+        ]
+      },
+      {
+        "place_id": "ChIJ8Rta7MsBVHkRlOJC-rSP0aQ",
+        "name": "Pu'uhonua O Honaunau National Historical Park",
+        "address": "State Hwy 160, Hōnaunau, HI 96726, USA",
+        "location": {
+          "lat": 19.4087958,
+          "lng": -155.9026125
+        },
+        "rating": 4.7,
+        "types": [
+          "historical_place",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 328-2326",
+        "website": "http://www.nps.gov/puho/index.htm",
+        "hours": [
+          "Monday: 8:30 AM – 4:30 PM",
+          "Tuesday: 8:30 AM – 4:30 PM",
+          "Wednesday: 8:30 AM – 4:30 PM",
+          "Thursday: 8:30 AM – 4:30 PM",
+          "Friday: 8:30 AM – 4:30 PM",
+          "Saturday: 8:30 AM – 4:30 PM",
+          "Sunday: 8:30 AM – 4:30 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Pu%27uhonua+O+Honaunau+National+Historical+Park&query_place_id=ChIJ8Rta7MsBVHkRlOJC-rSP0aQ",
+        "query": "Puuhonua o Honaunau National Historical Park",
+        "review_snippets": [
+          "Our National Park Service are wonderful stewards of this beautiful sacred space. I appreciated the detailed reconstructed areas of the royal grounds and insights into Hawaiian history and culture. Extensive coastal trail",
+          "Wow this place is stunning. It costs $10 per person but in my opinion it’s well worth it. There are numerous fish ponds and a Great Wall and temples. I would highly recommend visiting right before sunset to get the best "
+        ]
+      },
+      {
+        "place_id": "ChIJvVuviouqVnkRGLko16_1cNc",
+        "name": "Ho‘okena Beach Park",
+        "address": "86-4322 Mamalahoa Hwy, Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.3798649,
+          "lng": -155.8974978
+        },
+        "rating": 4.7,
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 328-8450",
+        "website": "http://hookena.org/",
+        "hours": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Ho%E2%80%98okena+Beach+Park&query_place_id=ChIJvVuviouqVnkRGLko16_1cNc",
+        "query": "Hookena Beach Park Hawaii",
+        "review_snippets": [
+          "Amazing black sand beach but the 2 mile drive down and up is a bit scary. The lane is big enough to fit 1 car but allows 2. The parking is free but extremely limited. I can’t imagine how people park there in the busy sum",
+          "The kumu (teacher) here is the dolphin.   Swim out, open your heart and let them come to you.  Wear a mask so when they do you can look an equal intelligence in the eye.  The water is clear, lots of reefs and fish and  o"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "title": "Mauna Kea Lookout at Sunset",
+    "category": "Sunset",
+    "region": "Mauna Kea",
+    "queries": [
+      "Mauna Kea Visitor Information Station Hawaii",
+      "Mauna Kea Summit Hawaii"
+    ],
+    "tom": "Drive up, hike over, and watch the sun drop from way up high.",
+    "pro": "Bring warm clothes. It is not beach weather up there, captain obvious.",
+    "places": [
+      {
+        "place_id": "ChIJK4b_bAC_U3kR0eAjVpvOkJU",
+        "name": "Maunakea Visitor Information Station",
+        "address": "Mauna Kea Access Rd, Hilo, HI, USA",
+        "location": {
+          "lat": 19.7592729,
+          "lng": -155.4561238
+        },
+        "rating": 4.6,
+        "types": [
+          "tourist_information_center",
+          "tour_agency",
+          "travel_agency",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 934-4550",
+        "website": "https://hilo.hawaii.edu/maunakea/visitor-information/",
+        "hours": [
+          "Monday: 9:00 AM – 9:00 PM",
+          "Tuesday: 9:00 AM – 9:00 PM",
+          "Wednesday: 9:00 AM – 9:00 PM",
+          "Thursday: 9:00 AM – 9:00 PM",
+          "Friday: 9:00 AM – 9:00 PM",
+          "Saturday: 9:00 AM – 9:00 PM",
+          "Sunday: 9:00 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Maunakea+Visitor+Information+Station&query_place_id=ChIJK4b_bAC_U3kR0eAjVpvOkJU",
+        "query": "Mauna Kea Visitor Information Station Hawaii",
+        "review_snippets": [
+          "I've been to the summit. I've been to the night time star facing presentation. This visit was just to the center - still a must do when visiting the Big Island.\n\nTons of information and everyone there is beyond helpful a",
+          "A visit to the Mauna Kea Visitors Information Center marks the start of a truly memorable experience. The staff are welcoming and highly knowledgeable, readily answering questions about the mountain and astronomy. The ce"
+        ]
+      },
+      {
+        "place_id": "ChIJzYar_4O9U3kRg6zPOOAayPs",
+        "name": "Mauna Kea Summit Trail",
+        "address": "Mauna Kea Summit Trail, Hawaii 96720, USA",
+        "location": {
+          "lat": 19.8198372,
+          "lng": -155.4710121
+        },
+        "rating": 5,
+        "types": [
+          "route"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Mauna+Kea+Summit+Trail&query_place_id=ChIJzYar_4O9U3kRg6zPOOAayPs",
+        "query": "Mauna Kea Summit Hawaii",
+        "review_snippets": [
+          "Tips: Be sure to have all wheel drive vehicle with low gears if you plan to drive to the summit ⛰️. There were a lot of jeeps heading up. Stay hydrated 💦. Best sure to have no less than a half tank of  gas ⛽️. Dress warm",
+          "Beautiful!"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "title": "Rent a Boat / Fish / Snorkel / Whales / Dolphins",
+    "category": "On the Water",
+    "region": "Kona Coast",
+    "queries": [
+      "Honokohau Small Boat Harbor Kona Hawaii"
+    ],
+    "tom": "Rent a boat or charter for fishing, snorkeling, whale watching, and dolphin watching.",
+    "pro": "Ask Tom for details. Local knowledge matters here.",
+    "places": [
+      {
+        "place_id": "ChIJe9FcdRIOVHkRM3VTwwvrW8w",
+        "name": "Honokohau Small Boat Harbor",
+        "address": "Honokohau Small Boat Harbor, Kaiminani, HI 96740, USA",
+        "location": {
+          "lat": 19.671944399999997,
+          "lng": -156.0269444
+        },
+        "rating": 4.5,
+        "types": [
+          "natural_feature",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Honokohau+Small+Boat+Harbor&query_place_id=ChIJe9FcdRIOVHkRM3VTwwvrW8w",
+        "query": "Honokohau Small Boat Harbor Kona Hawaii",
+        "review_snippets": [
+          "This is a cool hidden gem that leads to the great national park around the corner. Fun watching the boats going in and out. Nice public restrooms and good free parking. We heard that dolphins and sharks can sometimes be ",
+          "Good place to get  a boat to catch or to go fishing or to go snorkeling"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "title": "Captain Cook Snorkel or Kayak",
+    "category": "Snorkel",
+    "region": "Kealakekua Bay",
+    "queries": [
+      "Captain Cook Monument Hawaii",
+      "Kealakekua Bay State Historical Park"
+    ],
+    "tom": "Classic Big Island snorkel/kayak mission with clear water and a big payoff.",
+    "pro": "Kayak with the right permit/operator, or go by boat.",
+    "places": [
+      {
+        "place_id": "ChIJC3psrUgBVHkRpxKx4sl0lAk",
+        "name": "Captain James Cook Monument",
+        "address": "Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.4813011,
+          "lng": -155.9334285
+        },
+        "rating": 4.6,
+        "types": [
+          "monument",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "hours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Captain+James+Cook+Monument&query_place_id=ChIJC3psrUgBVHkRpxKx4sl0lAk",
+        "query": "Captain Cook Monument Hawaii",
+        "review_snippets": [
+          "Captain Cook did not discover the Hawaiian islands that was The Polynesians who had been living there for almost 1000 years when the British explorer arrived\n\nThe monument should be for the village of Kaʻawaloa which the",
+          "A monument placed in commemoration of the fallen British Explorer that was killed on this Island in 1779.\n\nOne can only reach the monument by boat or on foot.\n\nTo get to the monument, one has to hike down the Captain Hoo"
+        ]
+      },
+      {
+        "place_id": "ChIJpVGNSUgBVHkRQIEYdCKjPZU",
+        "name": "Kealakekua Bay State Historical Park",
+        "address": "Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.4823801,
+          "lng": -155.9309021
+        },
+        "rating": 4.7,
+        "types": [
+          "state_park",
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 961-9540",
+        "website": "http://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/",
+        "hours": [
+          "Monday: 7:00 AM – 8:00 PM",
+          "Tuesday: 7:00 AM – 8:00 PM",
+          "Wednesday: 7:00 AM – 8:00 PM",
+          "Thursday: 7:00 AM – 8:00 PM",
+          "Friday: 7:00 AM – 8:00 PM",
+          "Saturday: 7:00 AM – 8:00 PM",
+          "Sunday: 7:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kealakekua+Bay+State+Historical+Park&query_place_id=ChIJpVGNSUgBVHkRQIEYdCKjPZU",
+        "query": "Kealakekua Bay State Historical Park",
+        "review_snippets": [
+          "I had the best time snorkeling here. We kayaked over with Ehu and Kai adventures. There were so many fish to see and extensive reef to explore. I love that this place is not drive able because it keeps this place well pr",
+          "We did the hike to Captain Cook Monument. It was easy on the way down, but quite strenuous on the way up. The snorkeling was wonderful though. Some of the best snorkeling we’ve ever done off the shore. We also saw a few "
+        ]
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "title": "Volcano",
+    "category": "Volcano",
+    "region": "Hawaiʻi Volcanoes",
+    "queries": [
+      "Hawaii Volcanoes National Park",
+      "Kilauea Volcano Hawaii"
+    ],
+    "tom": "Watch USGS and YouTube channels for eruption episodes. When it looks like it’s going blast-o, go — even middle of da night.",
+    "pro": "Check eruption status before driving. Conditions change fast.",
+    "places": [
+      {
+        "place_id": "ChIJscm5wLZhUXkRJq6EPCZ7Wz4",
+        "name": "Hawaiʻi Volcanoes National Park",
+        "address": "Hawaii, USA",
+        "location": {
+          "lat": 19.496366899999998,
+          "lng": -155.4661859
+        },
+        "rating": 4.8,
+        "types": [
+          "national_park",
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 985-6011",
+        "website": "https://www.nps.gov/havo/index.htm",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hawai%CA%BBi+Volcanoes+National+Park&query_place_id=ChIJscm5wLZhUXkRJq6EPCZ7Wz4",
+        "query": "Hawaii Volcanoes National Park",
+        "review_snippets": [
+          "What a magnificent, humbling experience! From alien lunar landscapes to fern covered rainforests and sweeping ocean vistas, this park is exceptional! There are hikes for every level - the 4 mile Kiluea Iki trail down and",
+          "This is a must visit location.     Because there are so many trails for hiking (in order to see the crater and the two active sites),  I would recommend staying at least one night within the national park or in the vicin"
+        ]
+      },
+      {
+        "place_id": "ChIJDX4xugraU3kRmxswh_ktWiA",
+        "name": "Kīlauea",
+        "address": "Kīlauea, Hawaii 96778, USA",
+        "location": {
+          "lat": 19.4068929,
+          "lng": -155.2833786
+        },
+        "rating": 4.4,
+        "types": [
+          "natural_feature",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=K%C4%ABlauea&query_place_id=ChIJDX4xugraU3kRmxswh_ktWiA",
+        "query": "Kilauea Volcano Hawaii",
+        "review_snippets": [
+          "One of a kind contact with natures beauty and force- stay at the volcano house for an authentic experience and don’t miss the hike down to Byron ledge, it feels like you’re on another planet!",
+          "We happen to be in Kona during episode 42. It was great timing to see the eruption. It took 90 minutes to get a parking space but it was worth it"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "title": "Obisic Shave Ice",
+    "category": "Sweet Treat",
+    "region": "Kona",
+    "queries": [
+      "OBISIC shave ice Kona Hawaii"
+    ],
+    "tom": "Real-fruit shave ice creations with fun toppings and mac nut ice cream in the middle.",
+    "pro": "Reported hours: 11:30 AM–6:30 PM. Verify before driving.",
+    "places": [
+      {
+        "place_id": "ChIJAV4PiZt3VHkRSQmdGPrkLb0",
+        "name": "Original Big Island Shave Ice Co.",
+        "address": "69-250 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.9161665,
+          "lng": -155.8819303
+        },
+        "rating": 4.6,
+        "types": [
+          "ice_cream_shop",
+          "dessert_shop",
+          "confectionery",
+          "food_store",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 895-6069",
+        "website": "https://obisic.squarespace.com/",
+        "hours": [
+          "Monday: Closed",
+          "Tuesday: 11:30 AM – 6:30 PM",
+          "Wednesday: 11:30 AM – 6:30 PM",
+          "Thursday: 11:30 AM – 6:30 PM",
+          "Friday: 11:30 AM – 6:30 PM",
+          "Saturday: 11:30 AM – 6:30 PM",
+          "Sunday: 11:30 AM – 6:30 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Original+Big+Island+Shave+Ice+Co.&query_place_id=ChIJAV4PiZt3VHkRSQmdGPrkLb0",
+        "query": "OBISIC shave ice Kona Hawaii",
+        "review_snippets": [
+          "Never have I ever enjoyed such a massive quantity of brain freeze inducing madness! The portions are monstrous in the most delightful way! I finished every last drop of the Noelani's haupia concoction I was given. My mom",
+          "Best shave ice on the Big Island!\nThe ice is unbelievably soft, and the flavors are fresh and real—not the usual syrupy stuff. I tried the mango-lilikoi combo with mochi and ice cream, and it was heavenly. Staff were sup"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "title": "South Kona Grindz",
+    "category": "Good Grindz",
+    "region": "South Kona",
+    "queries": [
+      "South Kona Grindz Hawaii"
+    ],
+    "tom": "Fish and chips, grilled ono, and proper local plate energy.",
+    "pro": "The grilled ono is da bomb.",
+    "places": [
+      {
+        "place_id": "ChIJeReMU_MAVHkRBi-TbTCHbhA",
+        "name": "South Kona Grindz",
+        "address": "83-5315 Mamalahoa Hwy, Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.4469454,
+          "lng": -155.8800178
+        },
+        "rating": 4.6,
+        "types": [
+          "restaurant",
+          "vegan_restaurant",
+          "taco_restaurant",
+          "hamburger_restaurant",
+          "coffee_shop",
+          "cafe",
+          "vegetarian_restaurant",
+          "fish_and_chips_restaurant",
+          "pizza_restaurant",
+          "food_store",
+          "gift_shop",
+          "american_restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 328-9000",
+        "website": "http://www.southkonagrindz.com/",
+        "hours": [
+          "Monday: 11:00 AM – 7:00 PM",
+          "Tuesday: 11:00 AM – 7:00 PM",
+          "Wednesday: 11:00 AM – 7:00 PM",
+          "Thursday: 11:00 AM – 7:00 PM",
+          "Friday: 11:00 AM – 7:00 PM",
+          "Saturday: 11:00 AM – 8:00 PM",
+          "Sunday: 11:00 AM – 7:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=South+Kona+Grindz&query_place_id=ChIJeReMU_MAVHkRBi-TbTCHbhA",
+        "query": "South Kona Grindz Hawaii",
+        "review_snippets": [
+          "This place feels like the old Hawaii and worth the drive! The server was friendly, the atmosphere was casual and the food was really good. I had the fish tacos which were fresh and tasty. I found the prices were very rea",
+          "Food was quite delicious but our service from Marika was excellent and amazing. She was lovely and made the experience even better.\nThe place was so cozy, welcoming, loved the outdoor terrace and the way it was decorated"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "title": "Cafe Pesto — Hilo",
+    "category": "Restaurant",
+    "region": "Hilo",
+    "queries": [
+      "Cafe Pesto Hilo Bay Hawaii"
+    ],
+    "tom": "A reliable Hilo food stop when you’re on the east side.",
+    "pro": "Good anchor meal for a Hilo / Volcano day.",
+    "places": [
+      {
+        "place_id": "ChIJ1fgg61dLUnkRfeJrovG6W8M",
+        "name": "Cafe Pesto Hilo Bay",
+        "address": "308 Kamehameha Ave #101, Hilo, HI 96720, USA",
+        "location": {
+          "lat": 19.723734999999998,
+          "lng": -155.08501479999998
+        },
+        "rating": 4.5,
+        "types": [
+          "restaurant",
+          "asian_fusion_restaurant",
+          "fusion_restaurant",
+          "seafood_restaurant",
+          "asian_restaurant",
+          "cafe",
+          "pizza_restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 969-6640",
+        "website": "http://www.cafepesto.com/",
+        "hours": [
+          "Monday: 11:00 AM – 8:30 PM",
+          "Tuesday: 11:00 AM – 8:30 PM",
+          "Wednesday: 11:00 AM – 8:30 PM",
+          "Thursday: 11:00 AM – 8:30 PM",
+          "Friday: 11:00 AM – 8:30 PM",
+          "Saturday: 11:00 AM – 8:30 PM",
+          "Sunday: 11:00 AM – 8:30 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Pesto+Hilo+Bay&query_place_id=ChIJ1fgg61dLUnkRfeJrovG6W8M",
+        "query": "Cafe Pesto Hilo Bay Hawaii",
+        "review_snippets": [
+          "This was one of the first places that my wife and I dined after being married on the Big Island 15 years ago.  Part of me wondered if my memory of the atmosphere and food were a bit rose colored, however, after returning",
+          "Lucky find in Hilo , visiting with my family and needed to find a restaurant on a Monday night.. not easy in Hilo. The scallops and oho were excellent. My wife didn't care for the sauce, but spicy food is not here fav. E"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "title": "Lava Lava Beach Club",
+    "category": "Sunset Dinner",
+    "region": "Waikoloa",
+    "queries": [
+      "Lava Lava Beach Club Waikoloa Hawaii"
+    ],
+    "tom": "Lunch, dinner, sunset, drinks, dessert, beach hangout — all in one place.",
+    "pro": "Virgin lava flow y’all. Go late and linger.",
+    "places": [
+      {
+        "place_id": "ChIJLV0YzpZ3VHkRrJxydNU8n4s",
+        "name": "Lava Lava Beach Club",
+        "address": "69-1081 Ku'uali'i Pl, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.913297699999998,
+          "lng": -155.8879458
+        },
+        "rating": 4.4,
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "http://lavalavabeachclub.com/bigisland",
+        "hours": [
+          "Monday: 11:30 AM – 9:00 PM",
+          "Tuesday: 11:30 AM – 9:00 PM",
+          "Wednesday: 11:30 AM – 9:00 PM",
+          "Thursday: 11:30 AM – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 9:00 PM",
+          "Sunday: 11:00 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Lava+Lava+Beach+Club&query_place_id=ChIJLV0YzpZ3VHkRrJxydNU8n4s",
+        "query": "Lava Lava Beach Club Waikoloa Hawaii",
+        "review_snippets": [
+          "Came to the restaurant here as a recommendation from friends who loved it, but we were not fans. The servers were plenty nice but the food wasn’t ideal especially given it’s not a cheap place. Started out with the teriya",
+          "This is for restaurant ONLY\n\n⭐ Overall Experience: 4/5\nAtmosphere: 5/5\nService: 5/5 — Erin was fantastic\nDrinks: 4/5\nFood: 3/5\n\nGreat location with an even better atmosphere. Erin was our server and she was truly excelle"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "title": "Dog Beach / Kohanaiki",
+    "category": "Snorkel",
+    "region": "Kona",
+    "queries": [
+      "Kohanaiki Beach Park Kailua Kona Hawaii"
+    ],
+    "tom": "Snorkel at Dog Beach — but yes, beware the huge shark. Tom takes a poking stick or spear gun, for reals.",
+    "pro": "Only for confident ocean people. Don’t solo it.",
+    "places": [
+      {
+        "place_id": "ChIJ4-C3Q-wNVHkRt3W0N-83awo",
+        "name": "Kohanaiki Beach Park",
+        "address": "PX23+72, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6986536,
+          "lng": -156.0466314
+        },
+        "rating": 4.7,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 961-8311",
+        "website": "https://hawaiicounty.ehawaii.gov/camping/all,details,57824.html",
+        "hours": [
+          "Monday: 5:30 AM – 9:00 PM",
+          "Tuesday: 5:30 AM – 9:00 PM",
+          "Wednesday: 5:30 AM – 9:00 PM",
+          "Thursday: 5:30 AM – 9:00 PM",
+          "Friday: 5:30 AM – 9:00 PM",
+          "Saturday: 5:30 AM – 9:00 PM",
+          "Sunday: 5:30 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kohanaiki+Beach+Park&query_place_id=ChIJ4-C3Q-wNVHkRt3W0N-83awo",
+        "query": "Kohanaiki Beach Park Kailua Kona Hawaii",
+        "review_snippets": [
+          "So serene and lovely away from touristy stuff. Be sure to go all the way to the end to see the pools, native plant garden and place of reflection and story of Aunty Elizabeth at her memorial area!!!",
+          "Beautiful peaceful beach. Not crowded, partially white sandy beach area to swim in the cove area but bumpy drive in."
+        ]
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "title": "Hoʻokena Beach",
+    "category": "Beach",
+    "region": "South Kona",
+    "queries": [
+      "Hookena Beach Park Hawaii"
+    ],
+    "tom": "Black sand beach with a more local feel and a good add-on to South Kona days.",
+    "pro": "Check ocean conditions; entries vary.",
+    "places": [
+      {
+        "place_id": "ChIJvVuviouqVnkRGLko16_1cNc",
+        "name": "Ho‘okena Beach Park",
+        "address": "86-4322 Mamalahoa Hwy, Captain Cook, HI 96704, USA",
+        "location": {
+          "lat": 19.3798649,
+          "lng": -155.8974978
+        },
+        "rating": 4.7,
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 328-8450",
+        "website": "http://hookena.org/",
+        "hours": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Ho%E2%80%98okena+Beach+Park&query_place_id=ChIJvVuviouqVnkRGLko16_1cNc",
+        "query": "Hookena Beach Park Hawaii",
+        "review_snippets": [
+          "Amazing black sand beach but the 2 mile drive down and up is a bit scary. The lane is big enough to fit 1 car but allows 2. The parking is free but extremely limited. I can’t imagine how people park there in the busy sum",
+          "The kumu (teacher) here is the dolphin.   Swim out, open your heart and let them come to you.  Wear a mask so when they do you can look an equal intelligence in the eye.  The water is clear, lots of reefs and fish and  o"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "title": "Balsimo’s Pizza + Smash Daddy’s 808",
+    "category": "Good Grindz",
+    "region": "Waikoloa",
+    "queries": [
+      "Balsimo's Pizza Waikoloa Hawaii",
+      "Smash Daddy's 808 Waikoloa Hawaii"
+    ],
+    "tom": "Pizza and burgers in Waikoloa — easy crowd-pleasers after beach or bike time.",
+    "pro": "Useful when nobody wants to “decide where to eat.”",
+    "places": [
+      {
+        "place_id": "ChIJbU7eBgCHU3kRJWIxN0n2Q-U",
+        "name": "Balsimo's Pizza",
+        "address": "68-1820 Waikoloa Road Unit #507, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.924589599999997,
+          "lng": -155.7896879
+        },
+        "rating": 4.8,
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 731-4035",
+        "website": "https://www.balsimospizza.com/",
+        "hours": [
+          "Monday: 5:00 – 10:00 PM",
+          "Tuesday: 5:00 – 10:00 PM",
+          "Wednesday: 5:00 – 10:00 PM",
+          "Thursday: 5:00 – 10:00 PM",
+          "Friday: 5:00 – 10:00 PM",
+          "Saturday: 5:00 – 10:00 PM",
+          "Sunday: Closed"
+        ],
+        "open_now": false,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Balsimo%27s+Pizza&query_place_id=ChIJbU7eBgCHU3kRJWIxN0n2Q-U",
+        "query": "Balsimo's Pizza Waikoloa Hawaii",
+        "review_snippets": [
+          "We got the 3-4 topping pizza with pepperoni, Italian sausage, mushroom and onion. Yum!!!! In Colorado, where we are from, we get a bottle of honey out when we eat a lot of the pizza. That’s so when we get to the rather t",
+          "Take out pizza place, a picnic table out front but no inside tables. Pizza is by far the best pizza on the island. Neopolitan dough, thin crust with nice chewy edges, your choice of topping."
+        ]
+      },
+      {
+        "place_id": "ChIJBble9OuHU3kR6woV-6ovRZE",
+        "name": "Smash Daddy's 808",
+        "address": "68-1820 Waikoloa Rd e505, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.9246035,
+          "lng": -155.7894661
+        },
+        "rating": 4.7,
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 796-3002",
+        "website": "https://www.smashdaddys808.com/",
+        "hours": [
+          "Monday: 11:00 AM – 8:00 PM",
+          "Tuesday: 11:00 AM – 8:00 PM",
+          "Wednesday: 11:00 AM – 8:00 PM",
+          "Thursday: 11:00 AM – 8:00 PM",
+          "Friday: 11:00 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 9:00 PM",
+          "Sunday: 11:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Smash+Daddy%27s+808&query_place_id=ChIJBble9OuHU3kR6woV-6ovRZE",
+        "query": "Smash Daddy's 808 Waikoloa Hawaii",
+        "review_snippets": [
+          "Went twice, had the 50/50, the Dub, onion rings, fries, and strawberry milkshake.  All good, but the burgers are craveable.  Price is a little steep, but overall worth it for the great burgers.\n\nThe burgers were cooked w",
+          "So... very good overall. Just a bit pricey for the portions, especially considering they make the burgers basically plain (bun, meat, cheese, sauce). Not unheard of in Hawai'i, where you have to order a \"deluxe\" if you w"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "title": "Tropical Dreams Mac Nut Ice Cream",
+    "category": "Sweet Treat",
+    "region": "Big Island",
+    "queries": [
+      "Tropical Dreams Ice Cream Hawaii"
+    ],
+    "tom": "Find Tropical Dreams mac nut ice cream. Good grindz.",
+    "pro": "Look for it at local markets and shops.",
+    "places": [
+      {
+        "place_id": "ChIJ0xNQAgCDU3kRAg7Miqxp_hM",
+        "name": "Tropical Dreams Ice Cream",
+        "address": "66-1250 Lalamilo Farm Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.0094195,
+          "lng": -155.67937759999998
+        },
+        "rating": 5,
+        "types": [
+          "ice_cream_shop",
+          "dessert_shop",
+          "confectionery",
+          "food_store",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 885-8820",
+        "website": "https://waimeacreamery.com/tropical-dreams",
+        "hours": [
+          "Monday: 9:00 AM – 4:00 PM",
+          "Tuesday: 9:00 AM – 4:00 PM",
+          "Wednesday: 9:00 AM – 4:00 PM",
+          "Thursday: 9:00 AM – 4:00 PM",
+          "Friday: 9:00 AM – 4:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Tropical+Dreams+Ice+Cream&query_place_id=ChIJ0xNQAgCDU3kRAg7Miqxp_hM",
+        "query": "Tropical Dreams Ice Cream Hawaii",
+        "review_snippets": [
+          "Not open to public since 2023. Commercial sales to local markets",
+          "Very delicious and the help was pleasant 😊"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "title": "Matsuyama Food & Fuel",
+    "category": "Local Stop",
+    "region": "Kona",
+    "queries": [
+      "Matsuyama Food and Fuel Kona Hawaii"
+    ],
+    "tom": "Food, gas, musubi — the practical local stop that earns its spot.",
+    "pro": "Grab musubi before heading south or north.",
+    "places": [
+      {
+        "place_id": "ChIJl01J_3QNVHkR7WR8F0jSV4A",
+        "name": "Matsuyama food and fuel",
+        "address": "73-285 Kahilihili St, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.725924199999998,
+          "lng": -156.0327194
+        },
+        "rating": 4.5,
+        "types": [
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 461-4255",
+        "hours": [
+          "Monday: 4:00 AM – 9:00 PM",
+          "Tuesday: 4:00 AM – 9:00 PM",
+          "Wednesday: 4:00 AM – 9:00 PM",
+          "Thursday: 4:00 AM – 9:00 PM",
+          "Friday: 4:00 AM – 9:00 PM",
+          "Saturday: 4:00 AM – 9:00 PM",
+          "Sunday: 4:00 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Matsuyama+food+and+fuel&query_place_id=ChIJl01J_3QNVHkR7WR8F0jSV4A",
+        "query": "Matsuyama Food and Fuel Kona Hawaii",
+        "review_snippets": [
+          "This place is truly an oasis in the desert, so amazing, I don't even know where to start! By 9:30 am, I'm hungry and ready for lunch. I walk in and there is so much hot and ready, beautiful food, it blows my mind! Musubi",
+          "Excellent place to refuel your rental car and yourself before heading to the airport. Great selection of food from poke, inarizushi, bulgogi & katsu bentos, fried chicken, musubi, pies, and cakes. The eating area outside"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "title": "King’s Shops & Queen’s Marketplace",
+    "category": "Shopping / Easy Stop",
+    "region": "Waikoloa",
+    "queries": [
+      "Kings' Shops Waikoloa Hawaii",
+      "Queens' Marketplace Waikoloa Hawaii"
+    ],
+    "tom": "Low-effort Waikoloa shopping stop: buy T-shirts, Crocs, beach stuff, souvenirs — whatever floats your canoe.",
+    "pro": "Good filler stop before dinner, after A-Bay, or when the group needs shade and bathrooms.",
+    "places": [
+      {
+        "place_id": "ChIJiXTY-pJ3VHkRC50mjs8WvbI",
+        "name": "Kings' Shops",
+        "address": "250 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.9163493,
+          "lng": -155.8827389
+        },
+        "rating": 4.2,
+        "types": [
+          "shopping_mall",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 886-8811",
+        "website": "http://www.kingsshops.com/",
+        "hours": [
+          "Monday: 10:00 AM – 8:00 PM",
+          "Tuesday: 10:00 AM – 8:00 PM",
+          "Wednesday: 10:00 AM – 8:00 PM",
+          "Thursday: 10:00 AM – 8:00 PM",
+          "Friday: 10:00 AM – 8:00 PM",
+          "Saturday: 10:00 AM – 8:00 PM",
+          "Sunday: 10:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "query": "Kings' Shops Waikoloa Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kings%27+Shops&query_place_id=ChIJiXTY-pJ3VHkRC50mjs8WvbI",
+        "review_snippets": [
+          "This is a great shopping area with several stores and restaurants. Very convenient",
+          "Nice little shopping center.  Parking is easy."
+        ]
+      },
+      {
+        "place_id": "ChIJbzfIU5N3VHkRV_GUhJ4DiGU",
+        "name": "Queens' Marketplace",
+        "address": "69-201 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.913270699999998,
+          "lng": -155.8805031
+        },
+        "rating": 4.4,
+        "types": [
+          "shopping_mall",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 886-8822",
+        "website": "http://queensmarketplace.com/",
+        "hours": [
+          "Monday: 10:00 AM – 8:00 PM",
+          "Tuesday: 10:00 AM – 8:00 PM",
+          "Wednesday: 10:00 AM – 8:00 PM",
+          "Thursday: 10:00 AM – 8:00 PM",
+          "Friday: 10:00 AM – 8:00 PM",
+          "Saturday: 10:00 AM – 8:00 PM",
+          "Sunday: 10:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "query": "Queens' Marketplace Waikoloa Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Queens%27+Marketplace&query_place_id=ChIJbzfIU5N3VHkRV_GUhJ4DiGU",
+        "review_snippets": [
+          "This is a recommended spot in Waikoloa, with restaurants, shops, and a supermarket all in one place.\nThe garlic shrimp here was excellent, but the seasoning was a bit off depending on the day.\nTommy Bahama is always busy",
+          "Queens’ Market place is located in Waikoloa Beach Resort, Big Island, Hawaii. It has 35 plus shops that includes premier Retail outlets & Restaurants including the largest food court on the Kohala coast. An exclusive are"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "title": "Tommy Bahama Restaurant at Mauna Lani",
+    "category": "Restaurant",
+    "region": "Mauna Lani",
+    "queries": [
+      "Tommy Bahama Restaurant Mauna Lani Hawaii"
+    ],
+    "tom": "Polished island dinner/lunch spot at the Mauna Lani shops. Good food, easy atmosphere, and reliable for visitors who want nice without going full resort formal.",
+    "pro": "Make a reservation for dinner; pair it with a Mauna Lani sunset walk if you’re feeling fancy.",
+    "places": [
+      {
+        "place_id": "ChIJCzNDd3-CU3kRIQe3nUGOtAs",
+        "name": "Tommy Bahama Restaurant & Bar",
+        "address": "68-1330 Mauna Lani Dr #102, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 19.941679,
+          "lng": -155.85857590000003
+        },
+        "rating": 4.5,
+        "types": [
+          "restaurant",
+          "womens_clothing_store",
+          "seafood_restaurant",
+          "clothing_store",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 881-8686",
+        "website": "https://www.tommybahama.com/restaurants-and-marlin-bars/locations/mauna-lani",
+        "hours": [
+          "Monday: 11:30 AM – 9:00 PM",
+          "Tuesday: 11:30 AM – 9:00 PM",
+          "Wednesday: 11:30 AM – 9:00 PM",
+          "Thursday: 11:30 AM – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: 11:30 AM – 9:00 PM",
+          "Sunday: 11:30 AM – 9:00 PM"
+        ],
+        "open_now": true,
+        "query": "Tommy Bahama Restaurant Mauna Lani Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Tommy+Bahama+Restaurant+%26+Bar&query_place_id=ChIJCzNDd3-CU3kRIQe3nUGOtAs",
+        "review_snippets": [
+          "Superb Food Experience! Everything was incredibly tasty and fresh. The portions were generous and beautifully presented. The service was attentive and thoughtful, with excellent recommendations — special thanks to Sage! ",
+          "We went to both locations on the Big Island & enjoyed both. We tried the coconut ship, tenderloin salad, Tuna poke and Key lime pie. Everything was excellent. The Mai Tai & Margarita were both tasty as well. Service was "
+        ]
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "title": "Pine Trees / Nēnē Beach + Pine Tree Cafe",
+    "category": "Beach Day",
+    "region": "Kona",
+    "queries": [
+      "Pine Trees Surfing Beach Kailua Kona Hawaii",
+      "Pine Tree Cafe Kona Hawaii"
+    ],
+    "tom": "We call it Nēnē Beach. A classic Kona beach/surf hang with lava-rock shoreline, sand pockets, and a more local feel than the resort beaches.",
+    "pro": "Hit Pine Tree Cafe before or after. Plate lunch plus beach time is undefeated island math.",
+    "places": [
+      {
+        "place_id": "ChIJSRrRQvgNVHkRc8fB4B8bOkA",
+        "name": "Pine Trees Surfing Beach",
+        "address": "Pine Trees Surfing Beach, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6947132,
+          "lng": -156.0447115
+        },
+        "rating": 4.6,
+        "types": [
+          "beach",
+          "natural_feature",
+          "establishment"
+        ],
+        "hours": [
+          "Monday: 7:00 AM – 6:00 PM",
+          "Tuesday: 7:00 AM – 6:00 PM",
+          "Wednesday: 7:00 AM – 6:00 PM",
+          "Thursday: 7:00 AM – 6:00 PM",
+          "Friday: 7:00 AM – 6:00 PM",
+          "Saturday: 7:00 AM – 6:00 PM",
+          "Sunday: 7:00 AM – 6:00 PM"
+        ],
+        "open_now": true,
+        "query": "Pine Trees Surfing Beach Kailua Kona Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Pine+Trees+Surfing+Beach&query_place_id=ChIJSRrRQvgNVHkRc8fB4B8bOkA",
+        "review_snippets": [
+          "Easy access from Kona. Drive in. Plenty of parking. Local surf spot. Bring chairs and shade. We opted for shade under trees. White sand beach, but many rocks. Full bathrooms and showers. Clean area.",
+          "Beautiful beach, not full of tourists, let's keep it this way. Great for relaxing and surfing, out if the way, beautifully quiet."
+        ]
+      },
+      {
+        "place_id": "ChIJtdRqX-kNVHkRaJI8PPiCICU",
+        "name": "Pine Tree Cafe",
+        "address": "73-4040 Hulikoa Dr, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6999983,
+          "lng": -156.0275029
+        },
+        "rating": 4.4,
+        "types": [
+          "restaurant",
+          "cafe",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 327-1234",
+        "website": "http://pinetreecafehi.com/",
+        "hours": [
+          "Monday: 6:00 AM – 7:00 PM",
+          "Tuesday: 6:00 AM – 7:00 PM",
+          "Wednesday: 6:00 AM – 7:00 PM",
+          "Thursday: 6:00 AM – 7:00 PM",
+          "Friday: 6:00 AM – 7:00 PM",
+          "Saturday: 6:00 AM – 7:00 PM",
+          "Sunday: 6:00 AM – 7:00 PM"
+        ],
+        "open_now": true,
+        "query": "Pine Tree Cafe Kona Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Pine+Tree+Cafe&query_place_id=ChIJtdRqX-kNVHkRaJI8PPiCICU",
+        "review_snippets": [
+          "I got the Spicy Ahi Poke Plate and the Teriyaki Chicken Plate. Everything was super ono and incredibly filling! The poke was fresh with just the right amount of kick, and the portions were huge, definitely didn't leave h",
+          "Most food looked really good\nLoco moco patty that was handmade was really good. The gravy seemed like it came out of a can and was not very warm.\nLooks like the burgers are very popular\nThe club sandwich looked amazing"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "title": "Holoholokai Beach Park",
+    "category": "Beach Day",
+    "region": "Mauna Lani / Puakō",
+    "queries": [
+      "Holoholokai Beach Park Hawaii",
+      "Puako Petroglyph Park Hawaii"
+    ],
+    "tom": "An amazing spot to park a chair in some shade, wander the trails toward Puakō, or just settle in and watch the sunset.",
+    "pro": "Check-em-out-ya? Bring a chair, something cold, and enough time to do absolutely nothing on purpose.",
+    "places": [
+      {
+        "place_id": "ChIJ1VJj8XZ4VHkRC44nQ4L0Xh0",
+        "name": "Holoholokai Beach Park",
+        "address": "Holoholokai Beach Park Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 19.9557303,
+          "lng": -155.8601594
+        },
+        "rating": 4.7,
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "http://www.to-hawaii.com/big-island/beaches/holoholokaibeachpark.php",
+        "hours": [
+          "Monday: 6:30 AM – 6:30 PM",
+          "Tuesday: 6:30 AM – 6:30 PM",
+          "Wednesday: 6:30 AM – 6:30 PM",
+          "Thursday: 6:30 AM – 6:30 PM",
+          "Friday: 6:30 AM – 6:30 PM",
+          "Saturday: 6:30 AM – 6:30 PM",
+          "Sunday: 6:30 AM – 6:30 PM"
+        ],
+        "open_now": true,
+        "query": "Holoholokai Beach Park Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Holoholokai+Beach+Park&query_place_id=ChIJ1VJj8XZ4VHkRC44nQ4L0Xh0",
+        "review_snippets": [
+          "Rocky but beautiful views and sounds of the waves crashing. Enjoyed our brisk walk along the path that had little areas to take scenic pictures.",
+          "Not much beach but lots of lava rock and some picnic tables in the shade - which was nice. Lovely surf and place to just enjoy the coast.  We originally stopped for the petroglyph trail which was a disappointment."
+        ]
+      },
+      {
+        "place_id": "ChIJxe0SRw54VHkRJczqPdajFMo",
+        "name": "Puakō Petroglyph Park",
+        "address": "1 N Kaniku Dr, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 19.9520169,
+          "lng": -155.8564945
+        },
+        "rating": 4.4,
+        "types": [
+          "park",
+          "historical_landmark",
+          "tourist_attraction",
+          "historical_place",
+          "point_of_interest",
+          "establishment"
+        ],
+        "website": "https://www.gohawaii.com/islands/hawaii-big-island/regions/kohala/puako-petroglyph-archeological-preserve",
+        "hours": [
+          "Monday: 6:30 AM – 6:30 PM",
+          "Tuesday: 6:30 AM – 6:30 PM",
+          "Wednesday: 6:30 AM – 6:30 PM",
+          "Thursday: 6:30 AM – 6:30 PM",
+          "Friday: 6:30 AM – 6:30 PM",
+          "Saturday: 6:30 AM – 6:30 PM",
+          "Sunday: 6:30 AM – 6:30 PM"
+        ],
+        "open_now": true,
+        "query": "Puako Petroglyph Park Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Puak%C5%8D+Petroglyph+Park&query_place_id=ChIJxe0SRw54VHkRJczqPdajFMo",
+        "review_snippets": [
+          "This was a fun and neat side trip. It felt other worldly and fun but the trail is a bit hard to follow at times and seemed neglected. Outside of that and the lack of local history and insight to how made the petroglyphs ",
+          "We walked the out and back 1.4 mile trail late in the day. The temperature was warm but not overbearing. The trail is partially shaded. Wear good shoes because it is unpaved and there are lots of loose lava rocks. Large "
+        ]
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "title": "Kohala Divers",
+    "category": "Dive / Snorkel Shop",
+    "region": "Kawaihae / North Island",
+    "queries": [
+      "Kohala Divers Kawaihae Hawaii"
+    ],
+    "tom": "Great dive/snorkel shop for north island adventures. Good stop when you’re aiming at Kawaihae, Mahukona, Kohala coast dives, or need gear/advice before getting wet.",
+    "pro": "Ask them about north island conditions and charters. Just don’t ask them about harvesting lobsters haha.",
+    "places": [
+      {
+        "place_id": "ChIJ92TqfeuAU3kRHyGl-ZvghRw",
+        "name": "Kohala Divers",
+        "address": "61-3665 Akoni Pule Hwy, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.039836899999997,
+          "lng": -155.8305138
+        },
+        "rating": 4.9,
+        "types": [
+          "sporting_goods_store",
+          "tour_agency",
+          "travel_agency",
+          "sports_coaching",
+          "school",
+          "store",
+          "point_of_interest",
+          "educational_institution",
+          "service",
+          "establishment"
+        ],
+        "phone": "(808) 882-7774",
+        "website": "https://www.kohaladivers.com/",
+        "hours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "open_now": true,
+        "query": "Kohala Divers Kawaihae Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kohala+Divers&query_place_id=ChIJ92TqfeuAU3kRHyGl-ZvghRw",
+        "review_snippets": [
+          "Incredible whale watching experience, we got very lucky and saw many pods of whales and even a few dolphins. The crew was very knowledgeable, and friendly. Would highly highly recommend this crew for whale watching. Woul",
+          "I couldn’t be happier with my experience with Kohala Divers. We were booked with another DM for our dives this week and due to unforeseen   Circumstances he couldn’t take us, so Kolea said bring them aboard! Captain Keit"
+        ]
+      }
+    ]
+  },
+  {
+    "n": 29,
+    "title": "Gill’s Lanai",
+    "category": "Relaxing Grindz",
+    "region": "North Kohala / Kapaʻau",
+    "queries": [
+      "Gill's Lanai Hawaii"
+    ],
+    "tom": "Gill’s is relaxing vibes: a mellow North Kohala food stop when you want to slow down, sit outside, and let the day breathe a little.",
+    "pro": "Great add-on when you’re already up north for Pololū, Hawi, or Mahukona.",
+    "places": [
+      {
+        "place_id": "ChIJa4mRmfh8U3kRzo2e5D8hmag",
+        "name": "Gill's Lanai",
+        "address": "54-3866 Akoni Pule Hwy, Kapaau, HI 96755, USA",
+        "location": {
+          "lat": 20.2305207,
+          "lng": -155.8007722
+        },
+        "rating": 4.9,
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 315-1542",
+        "website": "http://www.gillslanai.com/",
+        "hours": [
+          "Monday: Closed",
+          "Tuesday: 11:00 AM – 7:30 PM",
+          "Wednesday: 11:00 AM – 7:30 PM",
+          "Thursday: 11:00 AM – 7:30 PM",
+          "Friday: 11:00 AM – 7:30 PM",
+          "Saturday: 11:00 AM – 7:30 PM",
+          "Sunday: 11:00 AM – 3:00 PM"
+        ],
+        "open_now": true,
+        "query": "Gill's Lanai Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Gill%27s+Lanai&query_place_id=ChIJa4mRmfh8U3kRzo2e5D8hmag",
+        "review_snippets": [
+          "Wonderful lunch on our last day here! The kalua pork tacos were just as good as they were 2 years ago! The fish tacos and fresh catch bowl were delicious. One of our favorite spots on The Big Island. Don't skip the fresh",
+          "We were headed to another restaurant in Hawi, but unfortunately it closed early.  We double backed to Gil’s based on the crowd we saw there — thinking the crowd must know something we don’t.\n\nWe ordered at the counter, a"
+        ]
+      }
+    ]
+  }
+]
