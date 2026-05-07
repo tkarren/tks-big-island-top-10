@@ -297,7 +297,6 @@
     "display_category": "Adventure Loop",
     "tags": [
       "All",
-      "Restaurants",
       "Scenic / Chill"
     ]
   },
@@ -2256,6 +2255,65 @@
       "Snorkel & Ocean",
       "Scenic / Chill",
       "Operators & Gear"
+    ]
+  },
+  {
+    "n": 33,
+    "title": "The Fish and The Hog",
+    "category": "Restaurant",
+    "display_category": "Restaurant",
+    "region": "Waimea",
+    "queries": [
+      "Fish and The Hog Waimea Hawaii"
+    ],
+    "tom": "Waimea sit-down comfort-food stop with BBQ, seafood, burgers, and big “yes, everyone can find something” energy.",
+    "pro": "Great Waimea option when you’re coming down from Kohala, Mauna Kea, or just need real food before the next island mission.",
+    "places": [
+      {
+        "place_id": "ChIJP9WmByCdU3kRT_GTCpHlGEI",
+        "name": "The Fish And The Hog",
+        "address": "64-957 Hawaiʻi Belt Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 20.0269241,
+          "lng": -155.6541564
+        },
+        "rating": 4.7,
+        "types": [
+          "barbecue_restaurant",
+          "bar_and_grill",
+          "hamburger_restaurant",
+          "dessert_restaurant",
+          "seafood_restaurant",
+          "american_restaurant",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 885-6268",
+        "website": "http://www.fishandthehog.com/",
+        "hours": [
+          "Monday: 11:30 AM – 8:30 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 11:30 AM – 8:30 PM",
+          "Friday: 11:30 AM – 8:30 PM",
+          "Saturday: 11:30 AM – 8:30 PM",
+          "Sunday: 11:30 AM – 8:30 PM"
+        ],
+        "open_now": false,
+        "query": "Fish and The Hog Waimea Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Fish+And+The+Hog&query_place_id=ChIJP9WmByCdU3kRT_GTCpHlGEI",
+        "review_snippets": [
+          "One of our most memorable meals on the Big Island. Everything was phenomenal from start to finish.\n\nWe had the pulled pork platter with sweet potato fries and pineapple, the fresh catch taco salad as an appetizer, a gumb",
+          "WOW! I loved this place. What a perfect meal. Wifey and I shared two plates...she had the BBQ sampler, HIGHLY RECOMMENDED! Their smoked offerings of pork & beef, perfect.\nI had the fish and chips, Mahi Mahi panko crusted"
+        ]
+      }
+    ],
+    "tags": [
+      "All",
+      "Restaurants"
     ]
   }
 ]
