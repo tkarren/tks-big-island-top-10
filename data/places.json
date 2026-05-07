@@ -1898,5 +1898,76 @@
         ]
       }
     ]
+  },
+  {
+    "n": 31,
+    "title": "Hilton Waikoloa Village",
+    "category": "Resort Stop",
+    "region": "Waikoloa",
+    "queries": [
+      "Hilton Waikoloa Village Hawaii",
+      "Dolphin Quest Hawaii Hilton Waikoloa Village"
+    ],
+    "tom": "Huge resort stop with a super pool setup, an amazing lagoon, and Hawaii Dolphin Quest. It’s worth wandering through even if you’re not staying there.",
+    "pro": "Pools are for registered guests only, but you can park and walk in to see the dolphins and explore the public resort areas.",
+    "places": [
+      {
+        "place_id": "ChIJxZ2pxo53VHkRNqPqqSPHzmU",
+        "name": "Hilton Waikoloa Village",
+        "address": "69-425 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.923929200000003,
+          "lng": -155.88717649999998
+        },
+        "rating": 4.1,
+        "types": [
+          "hotel",
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 886-1234",
+        "website": "https://www.hilton.com/en/hotels/koahwhh-hilton-waikoloa-village/?SEO_id=GMB-AMER-HH-KOAHWHH&y_source=1_NzIxNzUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+        "query": "Hilton Waikoloa Village Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hilton+Waikoloa+Village&query_place_id=ChIJxZ2pxo53VHkRNqPqqSPHzmU",
+        "review_snippets": [
+          "Recently stayed in the Palace Tower and had a wonderful experience. The resort itself is expansive and beautifully designed, giving you plenty of space to explore and relax without ever feeling crowded.\n\nRoom was very cl",
+          "The staff at the resort (servers, valet, bellman) are very friendly and helpful.  Huge shout-out to EMELY in Concierge Services: our original room was definitely not up to par and she quickly went to work finding us a ne"
+        ]
+      },
+      {
+        "place_id": "ChIJGfxD1Ih3VHkRSjDRrFYZXpo",
+        "name": "Dolphin Quest Hawaii",
+        "address": "69-425 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.925504999999998,
+          "lng": -155.889022
+        },
+        "rating": 4.3,
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 987-3434",
+        "website": "https://dolphinquest.com/hawaii-big-island/",
+        "hours": [
+          "Monday: 8:30 AM – 5:00 PM",
+          "Tuesday: 8:30 AM – 5:00 PM",
+          "Wednesday: 8:30 AM – 5:00 PM",
+          "Thursday: 8:30 AM – 5:00 PM",
+          "Friday: 8:30 AM – 5:00 PM",
+          "Saturday: 8:30 AM – 5:00 PM",
+          "Sunday: 8:30 AM – 5:00 PM"
+        ],
+        "open_now": true,
+        "query": "Dolphin Quest Hawaii Hilton Waikoloa Village",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Dolphin+Quest+Hawaii&query_place_id=ChIJGfxD1Ih3VHkRSjDRrFYZXpo",
+        "review_snippets": [
+          "Pretty unique to get so close to dolphins outside of SeaWorld/ boat tours. Dolphin encounters up close and personal available for a price, photo session is an additional extra. Supports ocean conservation and you get a h",
+          "Loved being able to see the dolphins in the lagoon. Also learned a lot about them. The staff was ready to answer any questions. Wish I had done the swim with the dolphins that they offer"
+        ]
+      }
+    ]
   }
 ]
