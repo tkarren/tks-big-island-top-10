@@ -123,6 +123,7 @@ button {
   backdrop-filter:blur(12px);
 }
 button:hover { border-color:rgba(83,232,255,.55) }
+.view-link { border:1px solid rgba(255,255,255,.16); background:linear-gradient(90deg,var(--lava),var(--accent)); color:#1b0903; border-radius:999px; padding:10px 14px; font-weight:900; }
 button.active {
   background:linear-gradient(90deg,var(--lava),var(--accent));
   color:#1b0903;
@@ -222,6 +223,7 @@ p { color:#eaf4f0; line-height:1.5; margin:0 0 14px }
       Pick a region, stack 2–3 nearby stops, and don’t over-schedule. The Big Island rewards people who leave room for weather, whales, lava, and “wait, pull over.”
     </div>
   </section>
+  <nav class="toolbar"><a class="view-link" href="map.html">Map view</a></nav>
   <nav class="toolbar" id="filters"></nav>
   <main class="grid" id="cards">
     <article class="card" data-category="Beach Day">
