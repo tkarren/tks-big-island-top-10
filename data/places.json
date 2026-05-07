@@ -2389,5 +2389,40 @@
       "Snorkel & Ocean",
       "Scenic / Chill"
     ]
+  },
+  {
+    "n": 35,
+    "title": "Waipiʻo Valley Lookout",
+    "category": "Drive-and-Stop Lookout",
+    "region": "Hāmākua Coast",
+    "queries": [
+      "Waipio Valley Lookout Hawaii"
+    ],
+    "tom": "A surreal drive-and-stop lookout over Waipiʻo Valley: big cliffs, deep green valley, ocean beyond, and those unmistakable old-Hawaiʻi vibes.",
+    "pro": "They do not want you driving down the road anymore — no aloha for that. Enjoy the lookout, and if you walk down, avoid getting in the ocean at the bottom.",
+    "places": [
+      {
+        "place_id": "ChIJFf3Ko492U3kR3dABc5Z-9qo",
+        "name": "Waipio Valley Lookout",
+        "address": "Waipio Valley Lookout, Hawaii 96727, USA",
+        "location": {
+          "lat": 20.1180192,
+          "lng": -155.5843481
+        },
+        "rating": 4.7,
+        "types": [
+          "natural_feature",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Waipio+Valley+Lookout&query_place_id=ChIJFf3Ko492U3kR3dABc5Z-9qo",
+        "query": "Waipio Valley Lookout Hawaii"
+      }
+    ],
+    "display_category": "Scenic Lookout",
+    "tags": [
+      "All",
+      "Scenic / Chill",
+      "Volcano & Mountains"
+    ]
   }
 ]
