@@ -1031,7 +1031,7 @@
       "Kilauea Volcano Hawaii"
     ],
     "tom": "Watch USGS and YouTube channels for eruption episodes. When it looks like it’s going blast-o, go — even middle of da night.",
-    "pro": "Check eruption status before driving. Conditions change fast.",
+    "pro": "Check eruption status before driving. Conditions change fast. Also: do not attempt roasting marshmallows with lava. The island has rules, and physics has lawyers.",
     "places": [
       {
         "place_id": "ChIJscm5wLZhUXkRJq6EPCZ7Wz4",
@@ -2167,6 +2167,95 @@
       "All",
       "Beaches",
       "Shopping & Resorts"
+    ]
+  },
+  {
+    "n": 32,
+    "title": "Octopus & Seahorse Experiences",
+    "category": "Marine Life",
+    "display_category": "Marine Life",
+    "region": "Kona / HOST Park",
+    "queries": [
+      "Kanaloa Octopus Farm Kona",
+      "Ocean Rider Seahorse Farm Kona"
+    ],
+    "tom": "Two nerdy-but-cool Kona marine-life stops: Kanaloa Octopus Farm for interactive octopus time and Ocean Rider Seahorse Farm for the seahorse tour. Very Big Island: weird, educational, memorable.",
+    "pro": "Book ahead and check tour times. Good non-beach option when you want ocean life without getting sandy.",
+    "places": [
+      {
+        "place_id": "ChIJi5Vylu0NVHkR8ujQcvPXn0g",
+        "name": "Kanaloa Octopus Farm",
+        "address": "73-4660 Queen Ka'ahumanu Hwy, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.7284215,
+          "lng": -156.0598326
+        },
+        "rating": 4.4,
+        "types": [
+          "farm",
+          "point_of_interest",
+          "service",
+          "establishment"
+        ],
+        "website": "https://www.kanaloaoctopus.com/",
+        "hours": [
+          "Monday: 8:00 AM – 4:30 PM",
+          "Tuesday: 8:00 AM – 4:30 PM",
+          "Wednesday: 8:00 AM – 4:30 PM",
+          "Thursday: 8:00 AM – 4:30 PM",
+          "Friday: 8:00 AM – 4:30 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "open_now": false,
+        "query": "Kanaloa Octopus Farm Kona",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Hawaii+Ocean+Science+%26+Technology+Park&query_place_id=ChIJi5Vylu0NVHkR8ujQcvPXn0g",
+        "review_snippets": [
+          "Nice place to get info on the volcanos and gifts to take home. The clerk was so nice and helpful.  Bathrooms was nice and clean.  Would live to go back.",
+          "Nice place for alone therapy"
+        ]
+      },
+      {
+        "place_id": "ChIJX9T9I2YOVHkRsELwz0PtHDc",
+        "name": "Ocean Rider Inc",
+        "address": "73-4388 Ilikai Place, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.7231317,
+          "lng": -156.056502
+        },
+        "rating": 4.5,
+        "types": [
+          "tourist_attraction",
+          "farm",
+          "service",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 329-6840",
+        "website": "https://seahorse.com/",
+        "hours": [
+          "Monday: 9:30 AM – 3:00 PM",
+          "Tuesday: 9:30 AM – 3:00 PM",
+          "Wednesday: 9:30 AM – 3:00 PM",
+          "Thursday: 9:30 AM – 3:00 PM",
+          "Friday: 9:30 AM – 3:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "open_now": false,
+        "query": "Ocean Rider Seahorse Farm Kona",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Ocean+Rider+Inc&query_place_id=ChIJX9T9I2YOVHkRsELwz0PtHDc",
+        "review_snippets": [
+          "I visited the Ocean Rider Seahorse farm on the Big Island of Hawaii. The tour was informative. Jasmine the guide was fun and knowledgeable. Facts about the potential loss of the seahorse were alarming.\n\nSo were changes i",
+          "I recently had the pleasure of visiting the Seahorse Farm by Ocean Rider, and I must say, it was a phenomenal experience! The tour offered a fantastic opportunity to learn about these fascinating creatures and their crit"
+        ]
+      }
+    ],
+    "tags": [
+      "All",
+      "Snorkel & Ocean",
+      "Scenic / Chill",
+      "Operators & Gear"
     ]
   }
 ]
