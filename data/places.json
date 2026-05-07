@@ -2315,5 +2315,79 @@
       "All",
       "Restaurants"
     ]
+  },
+  {
+    "n": 34,
+    "title": "Beach 69 & 49 Black Sand Beach",
+    "category": "Beach",
+    "display_category": "Beach",
+    "region": "Kohala Coast / Waikoloa",
+    "queries": [
+      "Beach 69 Waialea Beach Hawaii",
+      "49 Black Sand Beach Hawaii"
+    ],
+    "tom": "Two west-side beach classics: Beach 69 / Waialea for shade, sand, snorkel, and casual hanging; 49 Black Sand for a more tucked-away black-sand Waikoloa beach stop.",
+    "pro": "Beach 69 is a great place for rock races. Yes, that is a real activity if you have the right people and the right rocks.",
+    "places": [
+      {
+        "place_id": "ChIJfwkBpROHU3kRg03Vf9M5nns",
+        "name": "Waialea Beach",
+        "address": "Waialea Beach, Old Puako Rd, Waimea, HI 96743, USA",
+        "location": {
+          "lat": 19.9813477,
+          "lng": -155.8288264
+        },
+        "rating": 4.6,
+        "types": [
+          "beach",
+          "natural_feature",
+          "establishment"
+        ],
+        "website": "http://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/hawaii-waialea-bay/",
+        "hours": [
+          "Monday: 7:00 AM – 8:00 PM",
+          "Tuesday: 7:00 AM – 8:00 PM",
+          "Wednesday: 7:00 AM – 8:00 PM",
+          "Thursday: 7:00 AM – 8:00 PM",
+          "Friday: 7:00 AM – 8:00 PM",
+          "Saturday: 7:00 AM – 8:00 PM",
+          "Sunday: 7:00 AM – 8:00 PM"
+        ],
+        "open_now": true,
+        "query": "Beach 69 Waialea Beach Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Waialea+Beach&query_place_id=ChIJfwkBpROHU3kRg03Vf9M5nns",
+        "review_snippets": [
+          "This is a beautiful beach with clear blue water where you can spend the whole day sheltered from the sun in the shade of the trees. The beach is equipped with a shower and toilet. While swimming on this beach we met a tu",
+          "Great small beach, sand and rocks so snorkeling and swimming, good amounts of shade, great for kids and adults. GO EARLY it will fill up fast. $15 to park full bathrooms and a shower. The locals ohana will be there be re"
+        ]
+      },
+      {
+        "place_id": "ChIJh5Z63CF4VHkRb1SHtVhBHsg",
+        "name": "49 Black Sand Beach",
+        "address": "49 Black Sand Beach, Waikoloa Beach Resort, HI 96738, USA",
+        "location": {
+          "lat": 19.9333638,
+          "lng": -155.88026449999998
+        },
+        "rating": 4.5,
+        "types": [
+          "beach",
+          "natural_feature",
+          "establishment"
+        ],
+        "query": "49 Black Sand Beach Hawaii",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=49+Black+Sand+Beach&query_place_id=ChIJh5Z63CF4VHkRb1SHtVhBHsg",
+        "review_snippets": [
+          "The sand is hot but this is worth seeing! Just a note that this is in a gated community. You will drive to the gate and there will be a nice woman there who can give you a free parking pass but if the beach is full you’l",
+          "We stumbled upon 49 Black Sand Beach by total surprise — and what a hidden gem! It’s located inside a gated community near Wailea on the Big Island, and they give out daily parking passes based on the limited number of s"
+        ]
+      }
+    ],
+    "tags": [
+      "All",
+      "Beaches",
+      "Snorkel & Ocean",
+      "Scenic / Chill"
+    ]
   }
 ]
