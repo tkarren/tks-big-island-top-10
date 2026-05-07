@@ -871,9 +871,42 @@
     "queries": [
       "Honokohau Small Boat Harbor Kona Hawaii"
     ],
-    "tom": "Rent a boat or charter for fishing, snorkeling, whale watching, and dolphin watching.",
-    "pro": "Ask Tom for details. Local knowledge matters here.",
+    "tom": "Rent a boat or charter for fishing, snorkeling, whale watching, and dolphin watching. The likely bareboat/self-drive operator is Kona Boat Rentals out of Honokōhau Harbor.",
+    "pro": "If you know boats, check Kona Boat Rentals first; otherwise book a captain/charter. Either way, Honokōhau is the hub for getting on the water.",
     "places": [
+      {
+        "place_id": "ChIJcS4Z32wOVHkRaQeRhvS21T8",
+        "name": "Kona Boat Rentals",
+        "address": "74-425 Kealakehe Pkwy #13, Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.6698943,
+          "lng": -156.0210454
+        },
+        "rating": 4.7,
+        "types": [
+          "service",
+          "point_of_interest",
+          "establishment"
+        ],
+        "phone": "(808) 326-9155",
+        "website": "http://www.konaboatrentals.com/",
+        "hours": [
+          "Monday: 7:00 AM – 5:00 PM",
+          "Tuesday: 7:00 AM – 5:00 PM",
+          "Wednesday: 7:00 AM – 5:00 PM",
+          "Thursday: 7:00 AM – 5:00 PM",
+          "Friday: 7:00 AM – 5:00 PM",
+          "Saturday: 7:00 AM – 5:00 PM",
+          "Sunday: Closed"
+        ],
+        "open_now": true,
+        "query": "Kona Boat Rentals",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Kona+Boat+Rentals&query_place_id=ChIJcS4Z32wOVHkRaQeRhvS21T8",
+        "review_snippets": [
+          "This was one of the best excursions I've taken on any vacation before. Blake was absolutely fantastic - he explained everything to do with the vessel, equipment, and locations out on the coast. He went above and beyond i",
+          "Loved this adventure! The staff are incredibly helpful and knowledgeable. We rented a boat for 4 hours and explored the coastline. You get to see the island from a unique view from the water. I highly recommend renting t"
+        ]
+      },
       {
         "place_id": "ChIJe9FcdRIOVHkRM3VTwwvrW8w",
         "name": "Honokohau Small Boat Harbor",
