@@ -2424,5 +2424,59 @@
       "Scenic / Chill",
       "Volcano & Mountains"
     ]
+  },
+  {
+    "n": 36,
+    "title": "Ikkyu Ramen — Waikoloa",
+    "category": "Good Grindz",
+    "region": "Waikoloa Village",
+    "queries": [
+      "Ikkyu Ramen Waikoloa"
+    ],
+    "tom": "Waikoloa ramen stop with big bowls and combo plates — easy to share when the group wants something warm, fast, and not another burger.",
+    "pro": "Bowls are huge/shareable. Order accordingly unless you’re trying to carb-load like it’s Ironman week.",
+    "places": [
+      {
+        "place_id": "ChIJ7XJ3DyOGU3kRPwrj2NEy9ZQ",
+        "name": "Ikkyu Ramen - Waikoloa",
+        "address": "68-1820 Waikoloa Rd C306, Waikoloa Village, HI 96738, USA",
+        "location": {
+          "lat": 19.925298599999998,
+          "lng": -155.7884077
+        },
+        "rating": 4.6,
+        "types": [
+          "ramen_restaurant",
+          "japanese_restaurant",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "phone": "(808) 883-8297",
+        "website": "https://www.ikkyuramenwaikoloa.com/",
+        "hours": [
+          "Monday: 10:00 AM – 9:30 PM",
+          "Tuesday: 10:00 AM – 9:30 PM",
+          "Wednesday: 10:00 AM – 9:30 PM",
+          "Thursday: 10:00 AM – 9:30 PM",
+          "Friday: 10:00 AM – 9:30 PM",
+          "Saturday: 10:00 AM – 9:30 PM",
+          "Sunday: 10:00 AM – 9:30 PM"
+        ],
+        "open_now": true,
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Ikkyu+Ramen+-+Waikoloa&query_place_id=ChIJ7XJ3DyOGU3kRPwrj2NEy9ZQ",
+        "query": "Ikkyu Ramen Waikoloa",
+        "review_snippets": [
+          "Food was excellent and fairly priced. Friendly and accommodating staff with a clean, comfortable, albeit small space. Large portions that are easily shareable.",
+          "Ramen combos with a small bowl of ramen, gyoza and one more dish are a great way to try different things. Fresh, well presented, large portions and tasty."
+        ]
+      }
+    ],
+    "display_category": "Restaurant",
+    "tags": [
+      "All",
+      "Restaurants"
+    ]
   }
 ]
