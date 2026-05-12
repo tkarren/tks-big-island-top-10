@@ -193,6 +193,46 @@ p { color:#eaf4f0; line-height:1.5; margin:0 0 14px }
   margin:14px 0;
 }
 .places { border-top:1px solid var(--line); padding-top:12px; color:var(--muted); line-height:1.7; font-size:14px }
+.photo-toggle {
+  position:absolute;
+  left:18px;
+  bottom:18px;
+  z-index:4;
+  border-color:rgba(83,232,255,.42);
+  background:rgba(3,43,63,.72);
+  color:var(--ink);
+  font-weight:900;
+  box-shadow:0 10px 28px rgba(0,0,0,.22);
+}
+.photo-toggle:hover { text-decoration:none; border-color:rgba(255,179,71,.66); }
+.photo-back {
+  display:none;
+  position:absolute;
+  inset:0;
+  z-index:3;
+  background:#031018;
+}
+.photo-back img { width:100%; height:100%; object-fit:cover; display:block; }
+.photo-back::after {
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(to top, rgba(0,0,0,.62), transparent 52%);
+}
+.photo-caption {
+  position:absolute;
+  left:22px;
+  right:22px;
+  bottom:70px;
+  z-index:4;
+  color:#fff8ea;
+  text-shadow:0 2px 14px rgba(0,0,0,.72);
+  font-weight:900;
+  line-height:1.25;
+}
+.card.photo-mode .card-body { opacity:0; pointer-events:none; }
+.card.photo-mode .photo-back { display:block; }
+.card.photo-mode::before, .card.photo-mode::after { opacity:0; }
 .footer { max-width:1120px; margin:0 auto; padding:0 22px 50px; color:var(--muted) }
 @media(max-width:800px) { .hero { grid-template-columns:1fr; padding-top:44px } .grid { grid-template-columns:1fr } .hero-card { order:-1 } }
 
@@ -625,6 +665,27 @@ p { color:#eaf4f0; line-height:1.5; margin:0 0 14px }
   </section>
   <div class="footer">Built from TK’s notes + Google Places enrichment. Verify hours, ocean conditions, and access before sending it.</div>
 <script>
+document.querySelectorAll('.card[data-photo-src]').forEach(card=>{
+  const src=card.dataset.photoSrc;
+  if(!src) return;
+  const alt=card.dataset.photoAlt || card.querySelector('h2')?.textContent || 'Big Island photo';
+  const caption=card.dataset.photoCaption || alt;
+  const back=document.createElement('div');
+  back.className='photo-back';
+  back.innerHTML=`<img src="${src}" alt="${alt}"><div class="photo-caption">${caption}</div>`;
+  const btn=document.createElement('button');
+  btn.type='button';
+  btn.className='photo-toggle';
+  btn.textContent='Show photo';
+  btn.addEventListener('click', e=>{
+    e.stopPropagation();
+    const on=card.classList.toggle('photo-mode');
+    btn.textContent=on ? 'Show info' : 'Show photo';
+    btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+  });
+  card.append(back, btn);
+});
+
 const cats = ['All','Beaches','Snorkel & Ocean','Restaurants','Biking','Volcano & Mountains','Shopping & Resorts','Scenic / Chill','Operators & Gear'];
 const filters=document.getElementById('filters');
 cats.forEach(cat=>{const b=document.createElement('button'); b.textContent=cat; if(cat==='All') b.className='active'; b.onclick=()=>{document.querySelectorAll('#filters button').forEach(x=>x.classList.remove('active')); b.classList.add('active'); document.querySelectorAll('.card').forEach(c=>{const tags=(c.dataset.tags||c.dataset.category||'').split('|'); c.style.display=(cat==='All'||tags.includes(cat))?'block':'none'});}; filters.appendChild(b)});
