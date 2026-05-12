@@ -2478,5 +2478,42 @@
       "All",
       "Restaurants"
     ]
+  },
+  {
+    "n": 37,
+    "title": "Kua Bay / Maniniʻōwali Beach",
+    "category": "Beach",
+    "display_category": "Beach",
+    "region": "Kona Coast",
+    "queries": [
+      "Maniniowali Beach Kua Bay Hawaii"
+    ],
+    "tom": "Soft sand, clear water, and usually plenty of people — Kua Bay is popular for a reason. Use the stairs for the left side of the beach, or carefully scramble down the lava for the right side.",
+    "pro": "Family nickname: Scar Beach. Tom’s father-in-law tripped here and got scratched up — he’s OK, but the lava keeps receipts. Watch your footing, and be careful when shorebreak gets big and dumpy.",
+    "places": [
+      {
+        "name": "Maniniʻōwali Beach (Kua Bay)",
+        "address": "Kailua-Kona, HI 96740, USA",
+        "location": {
+          "lat": 19.8104767,
+          "lng": -156.0074902
+        },
+        "rating": 4.8,
+        "types": [
+          "beach",
+          "natural_feature",
+          "establishment"
+        ],
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=Manini%CA%BB%C5%8Dwali+Beach+Kua+Bay",
+        "query": "Maniniowali Beach Kua Bay Hawaii",
+        "review_snippets": []
+      }
+    ],
+    "tags": [
+      "All",
+      "Beaches",
+      "Snorkel & Ocean",
+      "Scenic / Chill"
+    ]
   }
 ]
