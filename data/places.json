@@ -1145,70 +1145,6 @@
   },
   {
     "n": 16,
-    "title": "South Kona Grindz",
-    "category": "Good Grindz",
-    "region": "South Kona",
-    "queries": [
-      "South Kona Grindz Hawaii"
-    ],
-    "tom": "Fish and chips, grilled ono, and proper local plate energy.",
-    "pro": "The grilled ono is da bomb.",
-    "places": [
-      {
-        "place_id": "ChIJeReMU_MAVHkRBi-TbTCHbhA",
-        "name": "South Kona Grindz",
-        "address": "83-5315 Mamalahoa Hwy, Captain Cook, HI 96704, USA",
-        "location": {
-          "lat": 19.4469454,
-          "lng": -155.8800178
-        },
-        "rating": 4.6,
-        "types": [
-          "restaurant",
-          "vegan_restaurant",
-          "taco_restaurant",
-          "hamburger_restaurant",
-          "coffee_shop",
-          "cafe",
-          "vegetarian_restaurant",
-          "fish_and_chips_restaurant",
-          "pizza_restaurant",
-          "food_store",
-          "gift_shop",
-          "american_restaurant",
-          "food",
-          "store",
-          "point_of_interest",
-          "establishment"
-        ],
-        "phone": "(808) 328-9000",
-        "website": "http://www.southkonagrindz.com/",
-        "hours": [
-          "Monday: 11:00 AM – 7:00 PM",
-          "Tuesday: 11:00 AM – 7:00 PM",
-          "Wednesday: 11:00 AM – 7:00 PM",
-          "Thursday: 11:00 AM – 7:00 PM",
-          "Friday: 11:00 AM – 7:00 PM",
-          "Saturday: 11:00 AM – 8:00 PM",
-          "Sunday: 11:00 AM – 7:00 PM"
-        ],
-        "open_now": true,
-        "maps_url": "https://www.google.com/maps/search/?api=1&query=South+Kona+Grindz&query_place_id=ChIJeReMU_MAVHkRBi-TbTCHbhA",
-        "query": "South Kona Grindz Hawaii",
-        "review_snippets": [
-          "This place feels like the old Hawaii and worth the drive! The server was friendly, the atmosphere was casual and the food was really good. I had the fish tacos which were fresh and tasty. I found the prices were very rea",
-          "Food was quite delicious but our service from Marika was excellent and amazing. She was lovely and made the experience even better.\nThe place was so cozy, welcoming, loved the outdoor terrace and the way it was decorated"
-        ]
-      }
-    ],
-    "display_category": "Restaurant",
-    "tags": [
-      "All",
-      "Restaurants"
-    ]
-  },
-  {
-    "n": 17,
     "title": "Cafe Pesto — Hilo",
     "category": "Restaurant",
     "region": "Hilo",
@@ -1266,7 +1202,7 @@
     ]
   },
   {
-    "n": 18,
+    "n": 17,
     "title": "Lava Lava Beach Club",
     "category": "Sunset Dinner",
     "region": "Waikoloa",
@@ -1318,7 +1254,7 @@
     ]
   },
   {
-    "n": 19,
+    "n": 18,
     "title": "Dog Beach / Kohanaiki",
     "category": "Snorkel",
     "region": "Kona",
@@ -1369,7 +1305,7 @@
     ]
   },
   {
-    "n": 20,
+    "n": 19,
     "title": "Hoʻokena Beach",
     "category": "Beach",
     "region": "South Kona",
@@ -1422,7 +1358,7 @@
     ]
   },
   {
-    "n": 21,
+    "n": 20,
     "title": "Balsimo’s Pizza + Smash Daddy’s 808",
     "category": "Good Grindz",
     "region": "Waikoloa",
@@ -1510,7 +1446,7 @@
     ]
   },
   {
-    "n": 22,
+    "n": 21,
     "title": "Tropical Dreams Mac Nut Ice Cream",
     "category": "Sweet Treat",
     "region": "Big Island",
@@ -1566,7 +1502,7 @@
     ]
   },
   {
-    "n": 23,
+    "n": 22,
     "title": "Matsuyama Food & Fuel",
     "category": "Local Stop",
     "region": "Kona",
@@ -1616,7 +1552,7 @@
     ]
   },
   {
-    "n": 24,
+    "n": 23,
     "title": "King’s Shops & Queen’s Marketplace",
     "category": "Shopping / Easy Stop",
     "region": "Waikoloa",
@@ -1701,7 +1637,7 @@
     ]
   },
   {
-    "n": 25,
+    "n": 24,
     "title": "Tommy Bahama Restaurant at Mauna Lani",
     "category": "Restaurant",
     "region": "Mauna Lani",
@@ -1757,7 +1693,7 @@
     ]
   },
   {
-    "n": 26,
+    "n": 25,
     "title": "Pine Trees / Nēnē Beach + Pine Tree Cafe",
     "category": "Beach Day",
     "region": "Kona",
@@ -1843,7 +1779,7 @@
     ]
   },
   {
-    "n": 27,
+    "n": 26,
     "title": "Holoholokai Beach Park",
     "category": "Beach Day",
     "region": "Mauna Lani / Puakō",
@@ -1931,7 +1867,7 @@
     ]
   },
   {
-    "n": 28,
+    "n": 27,
     "title": "Kohala Divers",
     "category": "Dive / Snorkel Shop",
     "region": "Kawaihae / North Island",
@@ -1990,7 +1926,7 @@
     ]
   },
   {
-    "n": 29,
+    "n": 28,
     "title": "Gill’s Lanai",
     "category": "Relaxing Grindz",
     "region": "North Kohala / Kapaʻau",
@@ -2042,7 +1978,7 @@
     ]
   },
   {
-    "n": 30,
+    "n": 29,
     "title": "Willie’s Hot Chicken",
     "category": "Good Grindz",
     "region": "Kona",
@@ -2094,7 +2030,7 @@
     ]
   },
   {
-    "n": 31,
+    "n": 30,
     "title": "Hilton Waikoloa Village",
     "category": "Resort Stop",
     "region": "Waikoloa",
@@ -2171,7 +2107,7 @@
     ]
   },
   {
-    "n": 32,
+    "n": 31,
     "title": "Octopus & Seahorse Experiences",
     "category": "Marine Life",
     "display_category": "Marine Life",
@@ -2260,7 +2196,7 @@
     ]
   },
   {
-    "n": 33,
+    "n": 32,
     "title": "The Fish and The Hog",
     "category": "Restaurant",
     "display_category": "Restaurant",
@@ -2319,7 +2255,7 @@
     ]
   },
   {
-    "n": 34,
+    "n": 33,
     "title": "Beach 69 & 49 Black Sand Beach",
     "category": "Beach",
     "display_category": "Beach",
@@ -2393,7 +2329,7 @@
     ]
   },
   {
-    "n": 35,
+    "n": 34,
     "title": "Waipiʻo Valley Lookout",
     "category": "Drive-and-Stop Lookout",
     "region": "Hāmākua Coast",
@@ -2428,7 +2364,7 @@
     ]
   },
   {
-    "n": 36,
+    "n": 35,
     "title": "Ikkyu Ramen — Waikoloa",
     "category": "Good Grindz",
     "region": "Waikoloa Village",
@@ -2482,7 +2418,7 @@
     ]
   },
   {
-    "n": 37,
+    "n": 36,
     "title": "Kua Bay / Maniniʻōwali Beach",
     "category": "Beach",
     "display_category": "Beach",
